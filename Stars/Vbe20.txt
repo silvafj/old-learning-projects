@@ -1,0 +1,127 @@
+FILE INFORMATION
+
+
+ FICHEIRO  : VBE20.DOC                                                     
+ DESCRIÇÃO : Ficheiro de explicação teórica do código feito no             
+             modulo VBE20.C                                                
+ AUTOR     : Fernando J.A. Silva (aka ^Magico^)
+ DATA      : Feb 27 1998                                                   
+ VERSÃO    : 0.1                                                           
+ 
+HISTORIAL 
+
+	Feb 27 1998     v.0.1     + Versão Inicial                                     
+                                                                           
+Recursos de aprendizagem : Vector/Vertigo                                 
+                            TimJ/Vertigo                                   
+                            Toth/PTNet #Coders                             
+                                                                           
+PTNet #Coders Webpage                                                    
+E-mail: bfe2333@mail.telepac.pt = ^Magico^                                 
+IRC:   irc.telepac.pt #coders                                             
+                                                                           
+
+INTRODUÇÃO
+
+Desde á muito tempo que coders, gfx artists, trackers e pessoal destas
+bandas, tentam criar demonstrações das suas capacidades intelectuais e intuitivas (aka demos). E é bem provável que sejam os demos os maiores impulsionadores dos coders que demonstram essas suas capacidades.
+O facto é que quanto mais o tempo passa, mais coders, gfx artists, e outra malta do mesmo género cada vez mais novos, aparecem na Internet a querer saber o que fazer. Como é que faço um demo? Como é que começo? Como é que me posso juntar aquele demogroup? Será que eles me aceitam? Afinal, o que é que eu vou fazer? São estas e outras perguntas que a malta faz. O que acontece com a malta que quer fazer demos é o mesmo que acontece com os que querem fazer jogos e aplicações.
+A receita é : juntar a uma pitada de bases de programação (quanto mais melhor), umas boas doses de paciência, mexer tudo e juntar muitas horas de disponibilidade. No final cozer tudo com boas fontes de informação. (Parece que hoje estou virado para a culinária!!!)
+Pois, até á 2 ou 3 anos, todos os demos que surgiam eram criados criados para serem visualizados numa resolução 300*200*256cores (aka modo 13h), por ser o modo mais rápido conhecido até ao momento, apesar de fornecer uma resolução muito fraca. No entanto apareceu a VESA, e com uma capacidade de utilizar melhores resoluções que a do modo 13h, com mais cores disponíveis só tinha a pequena desvantagem de que o acesso á memória de vídeo era mais complicada que a do modo 13h. Sendo assim muitos coders continuaram a usar o modo 13h.
+
+Mas, foi aí, que surgido do céu desceu uma nave espacial... (desculpem, isto é outra história). Mas passado algum tempo surgiu a VESA 2.0, uma versão melhorada, mais rápida, eficaz, compatível, suportando protected mode, fazia com que o LFB (Linear Frames Buffer) podesse ser utilizado, e apesar de ser necessário algum cuidado no acesso e na detecção, o uso do LFB é tão fácil e simples como o acesso á memória de vídeo no modo 13h.E como a VESA 2.0 começa a ser tão utilizada, nós devemos entrar nessa onda tecnológica, porque as vantagens de utilizar VESA 2.0 são tão boas que a desvantagem é irrisória!!!
+
+Infelizmente, apesar de existir muita documentação (teórica) e muito código (feito á pressa, basicamente incompleto, com bugs e que por vezes complica mais do que ensina), ainda é muito difícil para um iniciado perceber bem todo o funcionamento disto.(Também é pedir muito, afinal o rapaz, ou rapariga, só queria fazer uns fogos, umas lavas e algo parecido e agora ele tem que saber essa treta toda da VESA). Existem por aí algumas livrarias e algumas muito boas, como é o caso da Allegro para DJGPP, que fazem tudo que é necessário fazer para aceder a VESA e fazem muito mais... Mas, obviamente, a maioria das pessoas por aí, não querem ver essas livrarias só para as usar, mas sim para saber como se faz.
+Se pretendem começar do zero, continuem a leitura, caso contrário usem o que quiserem. Mas lembrem-se é do inicio que se faz algo, e não é por existir algo que já é bom e que já está  completo (se é que alguma coisa está completa), que se deve parar de construir do inicio, tudo dá para melhorar e para inovar. Vejam por exemplo o Windows 95, se eles tivessem feito tudo de raiz e do inicio, o código deles não teria tantas falhas!!! :))))
+
+ANTES DE COMEÇAR 
+
+Ao contrário de muitos outros tutoriais, que de certa forma exigem, que a pessoa saiba alguma coisa de PMode, DPMI e outras coisas, eu aqui apenas considero que seja conveniente saber isso, mas não totalmente necessário.
+O ficheiro VBE2.H É o "Header" que vai ser incluído nos nossos programas, o ficheiro VBE2.C É o que contem todo o código. 
+O código foi criado com o DJGPP 2.01.
+Também, todo a informação aqui apresentada (apesar de testada e de funcionar perfeitamente) é fornecida como freeware, e as-is. Toda a treta de copyright deixo para os especialistas. A única coisa que digo é : não roubem código, aprendam e dêem os créditos a quem merece.
+
+O QUE QUEREMOS ?
+
+Antes de começarmos, como seria a livraria de VESA 2.0 perfeita para nós ? 
+
+1º Mais importante, nós queremos  usar o LFB. Isto permite-nos escrever para a memória de vídeo tão facilmente como escrever no modo 13h. Nas informações a que tive acesso, dizia que todas as placas de vídeo PCI suportam LFB, e que a maioria das placas encontradas nos 486 também o suportam, sendo assim, o requerimento para suportar a mudança de bancos (bank switched modes) não ser  necessária. (Ainda bem...)
+
+2º Queremos mapear este LFB para o podermos usar. A maioria das vezes o modo de VESA funciona sem ser necessário mapear a memória, no entanto devemos fazer isto para ter 100% de compatibilidade.
+
+3º Também queremos uma boa detecção de erros. Como por exemplo, escolher um modo inexistente, e detectar se VESA 2.0 existe.
+
+4º O interface tem de ser fácil e intuitivo. Em vez de seleccionar o modo, devemos dar as variáveis da resolução e das cores. Além de ser mais fácil assim, temos a certeza de seleccionarmos o modo que realmente queremos e não um modo que poderia ser diferente, pois na VESA 2.0 o valor do modo não significa que seja o modo que queremos.
+
+5º Queremos saber o máximo de informação possível sobre o modo. Queremos saber quantos são os bits R,G, e B, onde começam, em que ordem se encontram. Queremos saber quanta memória de video existe, etc...
+
+QUE FAZER ?
+
+Em primeiro lugar temos de pensar quais as funções essenciais para iniciar a VBE de um modo simples e eficaz. Temos também de ter em consideração que as rotinas devem ser fáceis de utilizar e intuitivas.
+Sendo assim existem 4 rotinas básicas que devem ser criadas:
+
+1ª Detecção da VBE e retornando um pointer para o local da memória onde se emcontra a structure
+ com as informações acerca da VBE.
+
+2ª Verificação se um determinado modo gráfico existe e retorno da informação sobre esse modo para uma structure apontada pelo pointer retornado.
+
+3ª Rotina para mudar de modo, inicializando um determinado modo pedido.
+
+4ª Uma rotina final para "desligar" o modo actual e mudar para o modo de texto normal no sistema operativo.
+
+Para facilitar o acesso e a inicialização dos modos e para verificar erros, serão criadas mais duas rotinas :
+
+1ª Uma rotina que verifique se uma determinada resolução que nós pretendemos existe, retornando o valor do modo com essa mesma resolução.
+
+2ª Esta é sem duvida a mais importante das rotinas, pelo menos em termos de simplicidade, eficácia e verificação de erros. 
+A rotina é iniciada unicamente com os valores da resolução e de cor que nós pretendemos. A rotina comece por verificar a informação sobre a VBE, depois verifica os modos, e retorna 0 se tudo correu bem, caso contrário retorna -1.
+Basicamente estas são as rotinas essenciais para iniciar a VBE, no entanto claro que existem mais rotinas disponiveis, no entanto são rotinas voltadas para o aspecto gráfico e que não têm nada haver com a inicialização da VBE.
+
+ VAMOS COMEÇAR A PROGRAMAR
+
+Ora bem, em primeiro lugar quero dizer, que o código fonte está muitissimo bem documentado, por isso aqui não vamos falar muito do código, mas mais de conceitos gerais desse código. Sendo assim não vou escrever aqui estruturas. É preciso notar que muito do código vai ser em PMode, no entanto como é necessário usar o Real Mode para aceder ao PMode, vão reparar em muitas conversões de um modo para outro e também de mapeamentos, e coisas parecidas...
+
+DPMI Interrupts
+
+Eu poderia agora escrever aqui os Interrupts que vamos usar, no entanto, como não vamos usar o DPMI directamente em Assembler, mas sim através de rotinas que já foram criadas para isso mesmo, que é o caso do go32.h. 
+Sendo assim, para saberem mais sobre DPMI Interrupts por favor consultem o documento "DPMI Interrupts.txt"
+
+VBE Interrupts   
+
+De facto o mais importante são os VBE Interrupts, afinal eles são a nossa matéria prima para criar as nossas rotinas!!! 
+Todos os VESA Interrupts usam o INT 10h. Todas as VBE instructions retornam 04Fh em EAX. Se não retornarem esse valor é porque algo erro ocorreu (por exemplo o driver da VBE não existe).
+
+-= Get VBE Information =-
+
+EAX = 4F00h
+ES:DI -> Pointer to 512 Allocated bytes to put Vbe_Info_Block
+Esta função vai colocar muita informação sobre a placa de video na estrutura vbe_info_block apontada pelo pointer ES:DI. Convém lembrar que é necessário colocar na VbeSiganture dentro da estrutura vbe_info_block o valor "VBE2". Isto vai dizer ao Interrupt que nós queremos que seja retornada informação VBE 2.0.
+
+-= Get VBE Mode Information =- 
+AX     = 4F01h
+CX     = Mode Number
+ES:DI  = Pointer to ModeInfoBlock structure.
+
+Isto vai preencher a estrutura Mode_info_block apontada por ES:DI, com toda a informação existente acerca do modo escolhido.
+
+-= Set VBE Mode =-
+AX     = 4F02h
+BX     = Mode Number. Bits 9-13 must be 0. OR bit 14 with 1 to indicate we want to use LFB. OR bit 15 with 1 to clear video memory.
+
+Bem, aqui é que se escolhe o modo que se quer iniciar. Não existem estruturas para serem passadas. Basta escolher o modo e colocar alguns bits a 1 ou a 0, que têm algumas caracteristicas especiais.
+
+As Rotinas
+
+Como eu já disse, o código está tão bem comentado que não é necessário estar aqui a repetir tudo, basta dizer o nome das rotinas:
+
+vbe_info_block *vbe_detect();
+mode_info_block *vbe_get_mode_info(int mode);
+int vbe_search_mode(int xres, int yres, unsigned char bpp);
+int vbe_set_mode(int mode);
+void close_vesa();
+int vbe_init(int xres, int yres, BYTE bpp);
+
+E é tudo com o código! 
+
+Espero, sinceramente que com esta leitura teórica e com a compreensão total do código, estarão em condições fazerem sozinhos e começar a praticar.
+Caso contrário é melhor lerem mais alguns documentos!
