@@ -1,0 +1,52 @@
+<html>
+
+<head>
+<meta name="keywords" content="Delphi,FAQ,tips,tricks,programming">
+<title>Open a local HTML file with Delphi 4's HTML component</title>
+</head>
+
+<body BGCOLOR="White" TEXT="Black" LINK="Blue">
+<font SIZE="2" FACE="Verdana">
+
+<h3>Open a local HTML file with Delphi 4's HTML component</h3>
+
+<p>The following snippet shows what does not work and how to do it instead:<br>
+</p>
+
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+  <tr>
+    <td width="7" align="LEFT" valign="TOP" bgcolor="Silver"><img width="7" height="7"
+    src="../images/e1.gif" alt></td>
+    <td height="7" width="100%" bgcolor="Silver"></td>
+    <td width="7" valign="top" align="right"><img height="7" src="../images/e2.gif" alt></td>
+  </tr>
+  <tr>
+    <td width="7" bgcolor="Silver"></td>
+    <td valign="top" bgcolor="Silver"><pre><b>begin</b>
+  <i><font color="Navy">// this one <b>does not</b> work:
+</font></i>  HTML1.RequestDoc(<font
+color="Blue">'file://C:\help.htm'</font>);
+
+  <i><font color="Navy">// these two will do the trick:
+</font></i>  HTML1.RequestDoc(<font
+color="Blue">'file:///C:\help.htm'</font>);
+  HTML1.RequestDoc(<font color="Blue">'file://localhost/C:\help.htm'</font>);
+<b>end</b>.
+
+</pre>
+    </td>
+    <td width="7" bgcolor="Silver"></td>
+  </tr>
+  <tr>
+    <td width="7" align="LEFT" valign="TOP" bgcolor="Silver"><img width="7" height="7"
+    src="../images/e3.gif" alt></td>
+    <td height="7" width="100%" bgcolor="Silver"></td>
+    <td width="7" valign="top" align="right"><img height="7" src="../images/e4.gif" alt></td>
+  </tr>
+</table>
+<font size="1">
+
+<p>You don't like the formatting? Check out <a href="/e/scoder.shtml" target="_new">SourceCoder</a>
+then!</font></font></p>
+</body>
+</html>

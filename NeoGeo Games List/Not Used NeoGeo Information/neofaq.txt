@@ -1,0 +1,2211 @@
+                                        
+                                 /-------------------------------------------------\ 
+                                /---------------------------------------------------\
+                               / |-------/ / CHRIS MULLINS'S NEO-GEO FAQ \ \-------| \                    
+                              < <|      / /    VER 9.6c, copyright 1999   \ \      |> >
+                               \ |-----/ / E-Mail me at CMull11217@aol.com.\ \-----| /
+                                \---------------------------------------------------/
+                                 \-------------------------------------------------/
+                       
+                                               ~remembering a tradition~
+
+                                                   Updated  2/28/99
+
+                                      Want to see my website? If so, then go here:
+                                            http://members.xoom.com/Old_Don/
+
+                            Want to see my other FAQs I made?  If so, point your browser here:
+                                  http://members.aol.com/CMull11217/private/index.htm
+
+                This faq is made by Chris Mullins for reading to anyone who wants to know 
+about the Neo-Geo Entertainment System, the Neo-Geo CD equivalent, and the MVS arcade system. 
+Now, please enjoy this FAQ!
+
+Contents:
+  
+  TOTAL QUESTIONS ANSWERED: 71
+
+----------------- 
+               
+  QUESTIONS YOU SHOULD READ:
+  
+    Why did I create this FAQ?
+    The History behind the NEOGEO?
+    Why have Japanese names of games in one section, and American names in another?
+    Do I actually have to read this whole FAQ?
+    How do I print this FAQ out?
+    Is the NEOGEO really worth the money?
+                                                                                        
+  GENERAL QUESTIONS:
+
+    What is a NEOGEO or NEOGEO CD?
+    What are the specifications for the system?
+    How much does the system and games cost?
+    What accessories are available for it?
+    What accessories were proposed, but never released for the NEOGEO?
+    Are Japanese games compatible with U.S. NEOGEO's?
+    Are there any Third Party Manufacturers for the NEOGEO?
+    What's this I hear about NEOGEO Emulation?
+    What are the Memory Card and Controller Test?
+    Can you get extension cables for the controllers?
+    What about the Multi-Link feature?
+    NEOGEO Cartridges with cardboard boxes?  What the...?
+    Oh my word!  An SNK portable machine!  Tell me more.
+    Is the NEOGEO POCKET worth the money?
+    What about these "Prototype" cartridges I'm hearing of?
+    Which Game Magazines cover the NEOGEO?
+    What's the current status of the NEOGEO?
+    Can I Contact SNK?
+    Why is SNK of America so complacent?
+
+  NEOGEO(Cart, CD, CDZ) MODIFICATION QUESTIONS:
+
+    I want the "Blood and Bouncy" code for King of Fighters '94? How do I get it?
+    I heard that MAS SYSTEMS does various modifications to Neo-Geo Cartridge systems. Please tell me about it.
+    Can I Convert MVS Games to Neo-Geo Home Carts?
+    Can you make up Inserts and Manuals for Converted home carts?
+    Man, the NEOGEO CD is too slow! Can't I put in an 8x CD-ROM drive in my NEOGEO CD?
+    I hate Composite video!  How can I get RGB?
+    Do you think the composite video problem is in the system?
+
+  NEOGEO CD and CDZ QUESTIONS:
+
+    What is a NEOGEO CDZ?
+    Just how time-consuming is the load time for the NEOGEO CD?
+    What should I get, a Cartridge or CD system?
+    What should I get, the NEOGEO CD, or the NEOGEO CDZ system?
+    Are HK's and CDR's for the NEOGEO CD illegal?
+
+  NEOGEO MVS QUESTIONS:
+
+    I can't find the Home Cartridges I want. Are you sure I can't use MVS Cartridges in a Home Cartridge system?
+    Are the NEOGEO MVS boards JAMMA?
+    Is it Possible to Hook up my Neo controllers to an MVS board?
+    Then, should I get a 1-slot board, because it's cheaper?
+    What should I get, a home cartridge system, or an MVS cartridge system?
+    What's this about a trackball setup?
+    I want to get an MVS System(Arcade Machine or Super Gun->MVS board), but where, or how do I go about finding one?
+    Is SNK going to upgrade the MVS board?
+    
+  NEOGEO MARKETPLACE QUESTIONS:
+
+    Why can't I find my favorite Neo cartridge?
+    Do you have any NEOGEO Systems or Games for sale?
+    What makes sense, ONE new cartridge, or a bunch of older cartridges?
+    Someone said that Metal Slug is a RARE game.  Where do I get it?
+    I'm tired of my Neo Cartridge(s)(or CDs). How do I get rid of them?
+
+  NEOGEO TECHNICAL HELP:
+
+    How come my games look weird when I play them?
+    How come my Neo games don't work?
+    I tried everything, but my screen still looks garbled! What should I do?
+    How do I design a game for the NEOGEO?
+
+  NEOGEO GAME QUESTIONS:
+
+    You gave Art of Fighting ~ryuukonoken gaiden~ an Excellent rating.  But I heard that was a bad game from other people.  
+What's up with that?
+    Someone has Garou Densetsu 3 for $299, but I don't want to spend that much on the game.  What's the market price for this game?
+    How did you figure out Megabit counts for the CD games?
+    How many games do you own for the NEOGEO?  Are they any good?
+    Are there any significant oddities pertaining to the Neo-Geo and its games?
+    What games are only available in Japanese form on the Neo-Geo?
+    How come new cartridges don't come with sealed stickers anymore?
+    On NAM-1975, how come on the sticker on the cart has another sticker over it?
+    What Games do you Recommend for the NEOGEO(CD)?
+    What is the Biggest Game Currently for the NEOGEO?
+    How does SNK's best stack up against Capcom's best?
+    
+  OTHER QUESTIONS:
+
+    Can the NEOGEO handle more than 330 Megs?
+    Are NEOGEO games compressed?
+    What is GIGA POWER on the intro screen? Is it more than a marketing name?
+    What's the deal on the HYPER NEOGEO 64?
+    Are there any Back-Up units for the NEOGEO?
+    Do you have any CODES for Neo games?
+
+  GAME LIST:
+
+    Action
+    Fighting
+    Shooter
+    Puzzle
+    Sports/Other
+    Neo CD Exclusive Titles
+    Games Not Yet Released
+    Japanese Name to American Name
+
+  MARKET PRICES:
+
+    NEOGEO Home Carts
+    NEOGEO CD Games
+    NEOGEO MVS Carts
+
+  NEO MARKETPLACE
+
+    NEOGEO Cart/CD Stores
+    NEOGEO MVS Stores
+
+  UPDATES, AND COMING SOON TO MY FAQ!
+
+-----------------
+
+
+|-------------------------|
+|Questions You Should Read|
+|-------------------------|
+
+
+----Why did I create this FAQ?
+       Well, there were many reasons, but the first, was that there was no other current
+Neo FAQ out on the internet. Ralph Barbagallo's FAQ was, in April 1997, 2 1/2 years without
+an update, and I felt I had to do something.
+       I wanted to cover all aspects of the Neo, from getting games to work, to having a COMPLETE
+Game List, having answers about converting carts, etc. It took almost two years, but now,
+I can safely say that my FAQ is nearly complete.
+       It will always get 'better' in some way, shape, or form, but with my hard work, and
+you guys(the FAQ readers) chipping in some great info, everyone will benefit. Thanks to all
+who helped me with this FAQ over the years, and special congratulations to Ralph Barbagallo, for
+making the first one.  Without it, I wouldn't have had a measuring stick as to how to write a good
+system FAQ.
+
+
+----What is the History of the NEOGEO?
+      SNK originally intended for the NEOGEO to be a home rental system, as it was too 
+expensive for most people at launch time. After two months though, SNK stopped doing this, and 
+started to sell them vigorously, to the best of their ability.
+      The Neo stood strong, after going through a motherboard change for the video output(they
+needed to have better composite output from the Neo, as the first NEOGEOs had horrid composite
+output). Who knows what could happen next?
+      SNK tried to push the Neo-Geo, with Penthouse Magazine Ads, game leaflets, and a big packet of
+info(game lists, pricing, SS2 preview, etc.)that they would send prospective buyers. Since that didn't
+go over too well, the inevitable must come....
+      In 1994, after Samurai Shodown 2 in U.S.A. was released, the front-office of SNK US 
+changed, with Chad Okada(the Game Lord)leaving for Sony, and new people taking the reins. And
+what a blow it took to SNK's credibility. No more marketing, no more advertisements, and that meant
+a dip in home sales for SNK.
+      Even now in 1998, SNK is still feeling the effects of the damage done in late 1994. No matter
+how profitable they become right now, SNK could always say, that they could've been bigger. Oh well,
+you can't win them all...
+
+
+----Why have Japanese and American names in different sections of this FAQ, instead of them matching up?
+      There is a reason why I decided to keep it that way, so that you should try to learn the Japanese
+and American names of the Neo-Geo games. Why?  Well, if someone offers you a game for a damn good 
+price, but if you forgot the Japanese names of them..you will not know that it's a good, or bad deal.
+      I did that, mainly to help the readers learn the names of the games. To be a serious Neo-Geo
+'Freak', and to know all you can about the Neo, you should learn them.
+
+
+----Do I actually have to read this whole FAQ?
+      Well, granted, it's over 100 Kilobits in size, and there are many questions that are answered.
+But, use this as a reference guide. Print the whole thing out, use it as a reference tool...refer to
+this first when you have a question, or when you found a game that you don't know the name of, but you have
+the description for...
+      Basically, all the hard work myself and other people put in this over the years, is done so everyone
+can benefit. Please, try to read the whole thing, and if you have ANY questions, feel free to contact me
+at CMull11217@aol.com.
+
+
+----How do I print this FAQ out?
+      The best and most efficient way to print this out, is by using Landscape mode, in Econofast type
+setting.  This is over 30 pages, so you want it to print out fast, and with Landscape mode, you
+can get ALL the information that way. :)
+
+
+----Is the NEOGEO really worth the money?
+      Well, I think it is, for a long while.  But, if you go to the arcades a lot, then you may
+shy away from this, as the Neo is slowly starting to age.  Venerable, yes.  But, SNK needs to
+upgrade this board, to stay in contention.  It is worth it, albeit for the plethora of great
+titles out there.  It'll be around for a while, but the games now, may not be the best in the
+WHOLE arcade scene, just the best on the Neo-Geo.
+
+
+|-----------------|
+|General Questions|
+|-----------------|
+
+----What is a NEOGEO or NEOGEO CD,  and what are the specs for it?
+       The NEOGEO is an exact copy of SNK's MVS arcade hardware, with MVS 
+standing for Multi-Video System. SNK makes games in this order:  MVS 
+Cartridge, Home Cartridge, and CD-ROM(for the NEOGEO CD). Remember that there are
+very few games that are CD only, or are MVS only.
+        Arcade operators have the MVS boards set up, to where you can play up to 
+6 games(can access different ones with a push of the button) while standing at 
+one machine. There are also 4 game, 2 game(2 monitor), 2 game(1 monitor), 
+and single units.
+        The specs on this thing are pretty good(who cares if this is nine years 
+old!), including decent sound(timetested). Here they are:
+
+Processor:                           Motorola 68000(12 Mhz, 16-bit), Zilog-80A(4 Mhz, 8-bit)
+                                           (technically a 16-bit machine, not 24-bit)
+Resolution:                          320x224
+Color Palette:                       65,536
+Maximum Colors On-Screen:            4,096
+Maximum Sprites On-Screen:           380
+Minimum Sprite Size:                 1x2
+Maximum Sprite Size:                 16x512
+Maximum Amount of Game Planes:       3                        
+Sound Channels:                      4-FM synthesis, 7-Digital, 3-PSG, 1-Noise channel
+Internal RAM:                        Work RAM: 64Kb
+                                     Video RAM: 68Kb
+                                     Z80 RAM: 2Kb 
+                                     Memory Card(see below)
+
+          The NEOGEOCD has all, including a single-speed CD-ROM drive, 
+64Kb of Static RAM, 512Kb Video RAM, cool loading screens, and 56 Mbits of D-RAM! The
+CDZ, likewise, except with more cache and a faster CD controller.
+
+
+----How much does a NEOGEO system cost?
+          The $64,000 question, I guess. When the NEOGEO first came out in 
+1990, it cost $650 with either NAM-1975 or Baseball Stars Professional, and 
+games soon followed, costing $200 apiece. Now, you could pick a Neo up for 
+about $200, but new games run you $300 apiece, due to the extremely large 
+size and megabit count of them. But you could find old, used games for a lot 
+cheaper(about $40-50 apiece), and a lot better bang for the buck that way.
+(See later in the FAQ for my counterpoint to the statement above.)
+           The NEOGEO CD came out in 1994 as the supposed answer to SNK's 
+gamut of problems, with cheaper games and a standard medium to put them on.  
+It's still a viable system to purchase, because the new games are about $200 
+cheaper. But certain used games are cheaper on cartridge, and load time is a 
+big problem(due to the demanding fighting games made for it, and it being a 
+single-speed drive). The NEOGEO CD costs about $250 new, and games run 
+about $50-70 apiece new for it. The CDZ, remember, which runs all CD games,
+costs $400 new.(see later for my opinions on the CDZ)
+
+
+----What accessories are available for the NEOGEO?
+           Joystick:  There are two kinds of joysticks available for the NEOGEO.  
+First is the bigger, more stable joysticks, where motions can be done with ease( 
+most, at least). But the others are lighter, more apt to break, and harder to even 
+pull off motions on it.  To some people, they don't like the fact that SNK doesn't 
+make the older, heavier controllers anymore, only the smaller, sleeker 
+controllers.
+           Memory Card:  This device on the NEOGEO Cartridge System
+ can save any position in ANY game(from 19-27 game positions saved), and can be put in 
+an MVS arcade cabinet so you can resume playing from your saved game in the 
+arcade(8 Kbytes of RAM). You can also use any memory card that has 68 pins, and
+that is JEIDA spec ver.3, or higher. Also, you can use bigger memory cards that fit
+the JEIDA standard as well, for more saved games!
+          Joypad Controllers:  Pretty good controllers, but may be hard to pull off 
+certain motions on it, and may seem out of place on the NEOGEO.
+          RGB/S-Video Cables: Yes!  You can have arcade quality graphics with
+the RGB cable(and near-arcade quality with the S-Video cable)!  But, you'll have to
+make your own, because all of the old peripherals are not made 
+anymore.  
+          Nylon Carry Bags: Have you ever wanted to take your NEOGEO on
+vacation?  To college, or to your Grandma's? Well, now you can, with these
+nylon carry bags, which are padded for the Neo's protection. Although
+these products are rather old, you can probably still find them at SNK, or
+at other retailers listed in the "Phone Numbers" section.
+           There are other products out there made by third-parties and other 
+companies, but are not listed here(like tons of specialty controllers, which were 
+mostly made back in 1993-1994).  
+
+
+----What Accessories were Proposed, but never released on the NEO-GEO?
+        There were some accessories for the Neo-Geo, mainly back in the earlier years of
+its life, but never surfaced. Below, they stand:
+        1. The Neo-Geo Network:  This was a network, which included games with built-in modems
+(only Minnasanno Okagesamadesu was made like that), for link-up play all across Japan. 
+Proposed in 1991, it never surfaced, only in prototype form.
+        2. Keyboards: There were two keyboards for the Neo-Geo...The first, is a Mahjong
+controller, with 8 buttons(no joystick itself, no directional up and down)..and the second, is
+a computer-style keyboard, for the Neo-Geo network. Both were shot down in late 1991, only
+prototypes exist.
+        3. The Neo CD unit, which was supposed to attach on the Neo cart unit...which
+was unfortunately vaporware, determined to be that in 1993.
+      If you know any others, tell me, and you'll get credit in my FAQ. Thanks very much!
+
+
+----Are Japanese games compatible with U.S. NEOGEO's?
+          Yes they are, and will play in English, if you have an English system. If
+you have a Japanese system, English games play in Japanese.  The same goes for
+European PAL systems, as well(play in European/English language of your system's heritage, US,
+Japan, Europe, etc.).  NEOGEO CD systems are the same way; if you have a US Neo CD, and have
+a Japanese CD game, it will play in English.  If you have a Japanese Neo CD, and a US CD game,
+it will play in Japanese.
+ 
+
+----Are there any Third Party Game Manufacturers for the NEOGEO?
+       There used to be several third party companies publishing in
+America, but now only produce in Japan(and let SNK publish them over
+here), such as Visco, Pallas, Video System, Alpha Denshi(ADK), Face, Saurus, 
+Sunsoft, Aicom, DataEast, Tradewest, Hudson Soft, Nazca, Taito, Viccom, Technos,
+American Sammy, Monolith, Takara, Success, NMK, Yumekobo, and Wave.  They all publish 
+games in Japan, or just stopped making games for SNK. 
+       To tell the truth, most of these were probably separate entities within SNK,
+such as ADK, Saurus, etc.
+
+
+----What's this I hear about NEOGEO Emulation?
+      That's right, you can now emulate Neo-Geo cartridge games on your own
+computer.  After about a year of teasers and updates on how to do an emula-
+tor of the Neo-Geo, a couple of them are now available.  There are a couple
+of flaws on them, such as minor graphics flaws, and joystick capabilities
+aren't well done at the moment. ROMs are coming along at a frantic pace, and some
+of the emulated games include Shin-Oh-Ken, Samurai Spirits Zankuro Musouken,
+Operation Ragnarok, Real Bout Garou Densetsu 2, etc.
+     There is sound available on the MAME emulator, and it has emulated sound
+pretty well. But, there is no substitute for the real thing! You need a very fast
+computer though, like a Pentium-200 with 128 MB RAM to run everything well.
+     Recently, the rage behind Neo emulation died down, and thereforth, this topic
+will be a forgotten bygone in the Neo's history.
+Here's some sites that deal with Neo-Geo emulation:
+  www.davesclassics.com --ROMs and Emulators
+  www.romlist.com --ROMs
+  neocharity.retrogames.com --ROMs
+
+
+----What is the Memory Card test and the Controller Test?
+         The Memory Card test does test and let you format cards, delete 
+saves, copy saves, and read files.  You press and hold ABCD(on first controller)
+ when a game is inserted, press reset, and it is activated.  The Controller 
+Test tests to see if you have a broken controller, and it is activated by 
+inserting a game, turning on the power as you're holding ABCD, on the second controller.
+ There is either a 0 or 1 when you press any button in the test.
+
+
+----Are there extention cables for my controllers available?
+          You can actually use PC controller 15-pin extention cables without 
+any modifications necessary.
+
+
+----What about the Multi-Link feature?
+          Some games (Riding Hero, League Bowling, Thrash Rally, and the two 
+Versus Prototype games) for the NEOGEO feature the Multi-Link Feature, which 
+means you can network two NEOGEOs together, with two separate TVs.  But the 
+Multi-Link Cable is essentially a wire with two male mini-headphone jacks,
+one at each end.
+
+
+----NEOGEO Cartridges with cardboard boxes?  What the....?
+      Yes, the above statement is indeed true.  The first 18 games were
+released in Japan, with cardboard boxes not unlike the Nintendo(Famicom)
+game boxes.  These are rarer than the other box forms, by far, and are
+desired by collectors everywhere.
+
+
+----Oh my word!  An SNK portable machine?!  Tell me more.
+       Alright, I'll try to.  SNK is designing a portable machine, along the lines
+of a portable organizer, and utilizes mini-cartridge games as well. It is a
+totally different system from the Neo-Geo, called the NEOGEO POCKET. Here are
+the specifications:
+ 
+Processor:           Motorola 68000
+Display type:        2.6 inch LCD, 8-level grey scale
+Resolution:          160x152
+Built-in Software:   World Clock, calendar, horoscope program
+Memory:              built-in memory back-up(by way of lithium battery)
+Power Source:        2 AAA batteries, or AC adapter
+Battery life:        20 hours continuous operation
+Connectors:          5-pin connector(communication use)
+                     Headphones connector
+                     AC Adapter
+
+       It costs around $60, and was released in the last week of October 1998. 8 games
+were released at launch, including a pocket version of King of Fighters(named with an R-1
+suffix).  Also, it will be able to connect to Sega's new console, Dreamcast, which will 
+allow gameplay over Sega's network.  There is a color version of the Neo Geo Pocket coming
+out soon, so the b/w version will be eradicated.
+
+
+----Is the NEOGEO POCKET worth the money?
+     In my opinion, yes it is, although I don't have one.  The graphics are damned good for
+a portable, and in fact, SNK is making some good games for this as well.  I'm surprised at
+this machine; it seems to be a winner.
+
+
+----What about these "Prototype" cartridges I'm hearing of?
+      These cartridges are not even prototype at all, at least games like
+Gururin, Panic Bomber, etc.  These are bootlegged copies of them, stolen from
+SNK of Japan, are copied carts from Brazil, or are converted MVS carts.  The following, 
+are unreleased MVS games:
+     Baseball Stars 3
+     Death Match
+     Droppers
+     Dunk Stars
+     Fire Suplex 2
+     Fun Fun Brothers
+     Fu'un Super Tag Battle Link-Up
+     GhostLop
+     Heavy Glove Boxing
+     Magician Lord 2
+     Mystic Wand
+     Ninja Gaiden
+     Pair Pair Wars  
+     QP(CD only)         
+     Reactor
+     Sunshine
+     World Heroes Link-Up
+     Zupapa
+          
+          That's about it, but caveat emptor, as almost all of the above have been pirated 
+and copied for years in Latin America. The games that are MVS Only, if they are on home, 
+are converted cartridges.
+
+
+----Which Game Magazines cover the NEOGEO?
+      Back from 1991, American magazines covered the Neo-Geo from day one, and there was
+a decent amount of hoopla surrounding it. And, it continued for several more years, in such magazines
+like Electronic Gaming Monthly, GamePro, Die Hard Game Fan, etc.
+      But, in 1995, most of the magazines stopped covering the Neo(mainly because they were
+tired of going to the arcade to review the games), and readers had to turn to Japan for their
+Neo info.
+      In 1996, Neo-Geo FREAK was introduced in Japan, which is the only all-Neo magazine to date.
+It still is around, bigger than ever. Also, Gamest also covers the Neo in their magazine as well.
+
+
+----What's the current status of the Neo?
+        The current status of the Neo is doing EXCELLENT!  SNK, which I thought was
+going downhill not too long ago, has came back with a vengeance!  With Bakumatsu Roman
+Daini Maku Gekkano Kenshi and King of Fighters' 98 making an impact on the arcade scene, 
+and that they are both top-notch games, SNK is moving on up!
+        Also, besides the Neo-Geo, the Neo Geo Pocket is going strong, and the 
+HYPER Neo Geo 64 is not complacent anymore; moreover, it is now a force to be reckoned with.
+With Fatal Fury:Wild Ambition out, SNK is seemingly unstoppable!  Also, the Neo-Geo will
+be supported for at least 3 more years!
+        Since the "Max 1 Giga" capabilities with Real Bout Fatal Fury 2 are used,
+we'll see more Neo-Geo games before it's through, perhaps up to 1000 Megs!
+Looking back at 1992, no one would have imagined that the Neo STILL has a
+following, and it's doing rather well.
+
+
+----Can I Contact SNK?
+         Of course you can, I've included all the addresses and phone
+numbers from all their branches, so you can write them and tell your story!
+Don't expect a quick answer from SNK, or even an answer at all, however,
+as they aren't the fastest responders to mail.
+
+     SNK CORPORATION OF AMERICA, Torrance
+     20603 EARL ST.
+     Torrance, CA 90503 U.S.A
+     Phone#: (310)371-7100
+     Fax#: (310)371-0969
+
+     SNK CORPORATION OF AMERICA, San Jose
+     17 Great Oaks Boulevard
+     San Jose, CA 95119 U.S.A
+     Phone#:(408)292-4550
+     Fax#:(408)292-4271
+
+     SNK ASIA LIMITED
+     SUITE 807, TOWER 1, THE GATEWAY
+     25 CANTON ROAD
+     TSIM SHA TSUI KOWLOON,HONG KONG
+     Phone#: (852)2730-0420
+     Fax#: (852)2375-3203
+
+     SNK SINGAPORE LIMITED
+     7 TAMASEK BOULEVARD #12-02A 
+     SUNTEC CITY , TOWER ONE SINGAPORE 038987
+     Phone#: (65)336-7877 
+     Fax#: (65)336-2270
+
+     SNK EUROPE LIMITED
+     2ND FLOOR, MARLBOROUGH HOUSE, 298 REGENTS PARK ROAD,
+     LONDON, N3 2SZ
+     ENGLAND
+     Phone#: (44)181-371-9911 
+     Fax#: (44)181-371-9890
+
+     SNK CORPORATION MIDDLE EAST
+     P.O.BOX 17306 
+     JEBEL ALI FREE ZONE, DUBAI, UNITED ARAB EMIRATES
+     Phone#: (971)4-814602 
+     Fax#: (971)4-814605
+
+     NEO GEO DO BRASIL LTDA.
+     AV. EUCLIDES, 64/68, JABAQUARA
+     CEP 04326-080, SAO PAULO, BRAZIL
+     Phone#: (55)11-5588-2300
+     Fax#: (55)11-5588-2790
+
+     NEO-CREATION, INC.
+     2919 KAPIOLANI BOULEVARD #1
+     HONOLULU, HAWAII 96826 U.S.A
+     Phone#: (808)737-1912 
+     Fax#: (808)737-1905
+
+
+----Why is SNK of America so complacent?
+        First, after Bonnie Lais and Chad Okada left the company, SNK put a new director's
+board in charge of SNK of America. They appointed people to the positions of President, and
+Manager, and one word sums them up; lazy. They are completely lazy when getting anything
+done, with the exception of buying new carts from them(whether MVS or Home). So, please
+don't have high hopes for them, if you ask them to do something, as more often than not,
+it won't get done.
+        Perhaps they are busy, as they have to put up with SNK of Japan, and if you're a regular
+customer of theirs, they'll put you on a first name basis.  Well, all I have to say is, don't 
+expect much, but you may get a lot in return.
+
+
+|------------------------------|
+|Neo-Geo Modification Questions|
+|------------------------------|
+
+
+----I want the "Blood and Bouncy" code in King of Fighters '94?  How do I Get it?
+         First, you can either input the code normally(which is time-consuming), or 
+you can have a language switch installed.  In the following paragraphs I will 
+explain how to do so in a NEOGEOCD(Z). This may also work for the cartridge 
+system as well.
+         Also, don't turn the switch when the system is on! It may damage the 
+system! And I will NOT take responsibility for your mishaps on making this,
+should an accident occur.
+         Now, here are the directions:
+     1. Unplug all cables from the NEOGEOCD(Z), and remove any disks that 
+may be inside.
+     2. Turn over the NEOGEOCD(Z) and remove the four screws at the corner 
+of the case. After removing the screws, carefully lift the TOP portion of 
+the case so that it does not get stuck on the joystick connectors.
+     3. Place the top portion of the case next to the bottom so that the CD data 
+cable does not get removed from its socket.
+     4. Look at the board with the joystick connectors. Carefully remove the 
+Data Cable from its socket. Next, remove the six screws and carefully 
+remove the board from its case. Also, be aware that there is a switch 
+already present on the board. This is NOT a pre-installed language 
+switch(DON'T TOUCH IT!).
+     5. Look at the jumpers near the Data Cable(at southwest position from the 
+Data Cable, when the diagram near the Data Cable is facing north, 
+relatively). If you have an American NEOGEOCD there will be a jumper 
+located at JN1. If you have a European system, the jumper will be at 
+JN2. On a Japanese NEOGEOCD(Z), there is no jumper set.
+     6. Look at the jumper diagram near the Data Cable. Now you have to 
+decide what modes to switch from and to. If you have any remaining 
+jumpers, remove them with a soldering iron. Also take the time to 
+decide whether you want a remote switch, or one soldered to the board.
+     7. (FOR JAPANESE TO USA MODE)If you decided on a remote switch, 
+solder a piece of wire to one terminal of JN1 and solder the other end of 
+the wire to one of the terminals on the switch. Next, solder another wire 
+to the other terminal of JN1 and then to the other terminal on the switch. 
+You now have a working USA to Japanese mode switch. You can now 
+cut a hole in the case of your NEOGEOCD(Z) and mount the switch( if 
+you want to). If you wanted to switch between Europe and Japanese 
+mode just substitute JN2 for JN1 in the above example. Also, if you did 
+not want a remote switch, you can optionally mount the switch directly to 
+the board. This makes it really hard to change modes when you want 
+to. 
+      (ALL THREE MODES) If you wish to have all three modes you have 
+several options. First, you can buy a three-way switch, that must support 
+both JN1 and JN2 open, JN1 closed and JN2 open, and JN2 closed and 
+JN1 open. Or, you can install two switches. In the second part, you 
+could use USA mode by leaving the JN2 switch in Japanese mode and 
+setting the JN1 switch for USA. European mode can be used by leaving 
+JN1 in Japanese Mode and setting JN2 for European. Japanese mode 
+would be accomplished by leaving both switches in Japanese mode. 
+Please do NOT leave both switches in either USA or European mode.
+      8. Now reassemble your NEOGEOCD(Z).
+      9. Now reattach everything and try a game in Japanese mode and then try 
+it in American mode. If it works both times, you have a successful 
+switch! 
+     If you don't want to do this yourself, please contact MAS Systems, as 
+they will modify your NeoGeo to show the blood with the flick of a toggle button.
+        But, on newer games, you don't have to enter a code, or
+make a language switch for it, because they already contain blood
+and other adultish themes.
+
+
+----I heard that MAS SYSTEMS does various modifications to Neo-Geo Cartridge
+Systems.  Please tell me about it.
+      I'll try to explain the best I can, but since I only own a simple Japanese
+modded system, I'll only go by what other reliable sources told me about them.  Here
+it goes:
+    Stereo-SVideo Mod: This mod enables you to use S-Video and Stereo outputs on your
+Neo-Geo system(instead of composite video and monaural sound).  I think it costs about 
+$100 to have done, courtesy of Mas Systems.
+    Debug Mod:  Or known as the "Arcade Mod", or the "Game Developer Mod", this mod
+does quite a few things.  First, it's a language changer for older titles.  Then, it's
+a "Game Genie" for the Neo, enabling you to access secret characters by using access
+codes and such.  And, you can have unlimited continues, damaging hits, and the like.
+It costs about $80-$120 or so to have done, also at Mas Systems.
+    Japanese Switch Mod:  Many people can do this, it is described above.  Mainly, only
+do this now if you desperately need to beat Burning Fight on Hard or something, it is
+unnecessary at this point.
+    If there are any more that I don't know about, feel free to e-mail me.
+
+
+----Can I convert MVS Games to Neo Home Games?
+      The conversions require you taking the MVS chips out of the casing, putting
+them in the home cart, and re-wiring it to work.  Very tedious, indeed. But, MAS
+Systems(and apollo69@gte.net) does do this, but please don't bother them with your 
+questions. Plain and simply, this is what you need:
+    $125 per cart
+    A host cart, to convert the MVS game to(118 Megs or bigger)
+    The MVS Cart you want to convert
+
+  MAS Systems' number is at the bottom of the FAQ. Almost all of the so-called
+'prototypes' out there, are just converted carts. You can tell converted carts,
+when you open them up, they contain tons of re-wiring....regular ones do not.
+Also, all the 'prototypes' you've been seeing with inserts and stickers, etc., 
+are being made up by people(like myself), for many years, and still happens.  So, please 
+don't buy these 'real' carts in hopes of getting the real thing, because you'll be disappointed,
+such as "Shock Troopers" and "Panic Bomber".
+
+
+----Can you make up Inserts and Manuals for Converted Home Carts?
+       I used to make up inserts and manuals for converted cartridges, but not anymore, since
+I do not have the time that I used to.  Sorry! :(  There are people around the internet that
+do, so search the newsgroups, and you'll find them!
+
+
+----Man, the NEOGEO CD is too slow! Can't I put in an 8x CD-ROM drive in my NEOGEO CD?
+       That's a tough one to answer. Well, it may depend on your 
+computer skills, how you should wire the CD interface to the controller on the 
+NEOGEO CD, if possible at all. If you succeed in doing so, you then have
+to test it, to see if it will work. If not, try another, similar drive
+to the CDZ(like a Saturn drive).
+       But all that work may be for naught, because most of the access
+time depends on what speed the games are produced at. Most are still
+produced at 1x, so anything higher than a 6x or 8x drive is not
+necessary at all. In fact, even a 4x drive may not be necessary, which
+means you'll be partying with your NEOGEO CD(CDZ, perhaps?), taking a
+while still to load games. Why? Well, faster load times may not be 
+noticeable as much on 1x games, as they do with 8x games.
+       It is EXTREMELY difficult, and only one place(MAS Systems) has pulled off a 
+translation. And, it was a Saturn-CDZ....which had no speed increase in it at all.
+      Now, a Saturn-CD conversion would be neat to have...but because the
+actual speed increaser is the proprietary controller of the CD drive, it may not
+really benefit.
+
+
+----I'm so sick of composite video.  I want RGB!
+      Have you got a PAL Neo-Geo with an RF, or composite cable? Yes I know, 
+it sucks big time. Well, no need to scream, because it is very easy to make it look
+about a hundred times better than RF output. Just two steps.
+
+      1.  You need to force your Neo-Geo to display through the NTSC signal. Why? 
+Because unlike the PAL signal it is 16% faster, full screen, and above all,
+it looks as the programmers intended. To do this, just open your Neo-Geo 
+by unscrewing the four screws on the bottom (3 of the screws are hidden 
+under the rubber feet; just remove the feet with a little screwdriver).
+Once your console is open, locate a small piece of bare wire (very short) 
+in the area of the top right corner of the motherboard, it is called PAL 1. 
+There is no need to be uneasy, it is marked as PAL 1. Now with a small cutter
+just cut it in half, and make sure that no contact is made. That's all. If 
+you did everything fine you should get full screen signal (NTSC). 
+      2.  Now for the optimum display (RGB) make a SCART/RGB (European SCART) cable.
+You can either get one from a store, like Telegames UK, or make your own.  I do
+not have any info on how to make one, however.
+
+       If you did all well, you should now get a perfect display from your 
+Neo-Geo. You COULD be a bit unlucky and get a composite display (not real good colors) 
+through that cable on your TV set, after all that is what happened to me. Well, 
+getting around is a pretty simple affair. All you got to do is to put your TV 
+in Teletext mode, and it automatically switches to RGB! Then, with the approppriate 
+button, remove the teletext page number, and there you have it! 
+
+
+----Do you think the composite video problem I have is in the system?
+       Well, first, make sure that you're using Composite video, with two AV jacks
+(one for monaural sound, one for video).  If it still is excessively blurry, then read
+the following:
+       There are three types of Neo-Geo cartridge systems.  The first type, had poor
+composite output, but good RGB output. It had a one-piece board on it as well. Well, 
+in late 1992-early 1993, SNK released a new type of system, with a daughterboard on
+it, to help the composite signal.  It did just that, but the RGB output suffered as
+a result.  In late 1997, SNK seemed to finish the production of Neo cart systems in JAPAN
+(in the US, they ended sometime in 1995), but they were manufactured with the one-piece 
+board. But, the output for both RGB and composite is clearer than the other systems.
+       But what's different on the Japanese systems, is that they have 6V AC adapters,
+not 5V ones.  
+
+
+
+|-------------------------------------|
+|Neo-Geo CD and CDZ Specific Questions|
+|-------------------------------------|
+
+
+----What is a NEOGEO CDZ?
+      That is a NEOGEO CD enhanced hardware, such as better caching capabilities. 
+IT IS NOT A DOUBLE-SPEED DRIVE, it just seems like it.  I've tested it, and opened 
+the CDZ and CD, and there is the same drive mechanism.  Right now, it is only 
+available through Japanese importers, and plays CD games only in 
+Japanese(on newer games, there is an option for the game to display
+English, Spanish, and Portuguese also). A problem; reliability has been a big
+problem for CDZ units, most will not last 3 years worth of use.
+      The drive mechanism is similar to the Sega Saturn(first version)'s drive, and
+may work if you can wire it to the CDZ.
+      Also, it is 115V, not 100V, and the board will probably fry, if you don't use
+a step-down converter(from 115 to 100).  You can get one from any electronics store, and it
+seems to run smoother and better with one on.
+
+
+----Just how Time-consuming is the load time for the NEOGEO CD?
+       Well, to put in in perspective, I'll tell it like this: Imagine the Sega CD's load
+time, and that is the Neo CD's load time. Or, on Bakumatsu Roman Gekkano Kenshi(The Last Blade)
+, I could read 100 pages of Victor Hugo's "The Hunchback of Notre Dame" while playing through
+half the game.
+       But, on games 106 Megs or lower, load time is not bad at all(i.e., it only loads a few times),
+but on games bigger than 106 megs, the load time starts to add up. You make the decision. The 
+Neo CDZ does not much better than the CD, by the way.
+
+
+----What should I get, the CD or Cartridge System?
+        It all depends on two things, how much you play games and how
+long you are willing to wait for a game. If you're like me, 
+someone who has a lot of other things to do, but expect your
+game to work, and have NO load time, the cartridge is for you.
+Even though the games run from $30 to $299, they are QUALITY-
+built, and is designed for extended play.
+        The Neo-Geo CD, on the other hand, is made for play,
+and are cheaper, from $20 to $50, and is made for the person
+who buys a LOT of games, and only plays video games in his/her
+spare time. But, the load time is horrendous, and is of a 
+cheaper build quality. Even though you can find the CDs a LOT
+easier, you can find almost all carts by just checking all
+the retailers periodically. But a MAJOR problem, with the top-loading
+CD/CDZ units, is that the CD lens itself gets wrecked, by almost
+any anomaly. So, the CD lenses on the CD units aren't of the best
+build quality.
+        CD or Cartridge, it depends on what you can afford? The
+question should be, how many games can I afford? I personally
+have 11 carts, but have had as much as 40 carts, before I
+sold them last month. Even though some carts are expensive, 
+I don't buy every new one, because I'm saving for a car, taking
+care of others, etc. :) If you plan on buying more than 25 games
+brand new, go for CD. But if you have a decent job, can pay for
+games himself/herself, like yours truly, and play them when 
+you want to, go for cartridge.
+
+
+----What should I get, the NEOGEO CD, or the NEOGEO CDZ system?
+       Basically, it depends how much money you have, whether you want
+to play older games in English or not, and if you can find a NEOGEO CDZ.
+Even though the CDZ has faster caching capabilities, loading time is not twice-
+as-fast, more like a little faster, since SNK may make games at 1x speed.
+       The CD unit has going for it, a sleeker design, more English 
+games that can play English(CDZ, you're stuck in Japanese for some titles),
+and you can find the system easier. But, the load time can be awful, and
+on the older games, you either play them in English mode, or have a Japanese
+mod switch done on the system.
+       The CDZ unit, loads a little faster(NOT 2x), you can have access to the blood codes
+(meaning Japanese mode), and it's easier to install a switch to Japanese
+mode on the system. But, it costs about $300-400 for the drive, which
+may turn off some people. It also fails, if you don't use a step-down converter.
+For more details, see above...
+       Also, there is a limited edition, FRONT-loading Neo-Geo CD unit, 
+which was the first NEO CD system that came out in 1994.  Only 2500 units were made,
+but the drive is single-speed.  The cost is about $450 on this one.
+      It's entirely your decision, but this decision will come down to
+whether you have the money to buy the CD(Z) unit, or whether you can find one.
+Hope this helps in your quest to pick the right Neo system for you!
+
+
+----What are HK's and CDR's for the NEOGEO CD?
+       HK's(Hong Kong copies) are illegal copies of games for the NeoGeo CD.  They
+run about $10-$15 each for CDs, annd contain some artwork(sometimes).
+       CDR's are copies of games, and are $10 or so.  They are just a CDR
+with a game for NeoGeo CD programmed on it.  They are only legal if you
+own the game, or you must get rid of it within a week or so.
+       Both run on the NeoGeo CD, but some of the newer ones don't run
+in the NeoGeo CDZ.  Whatever the case, this is the route for trying out a
+game, before you buy the original.
+
+
+
+|---------------------|
+|Neo-Geo MVS Questions|
+|---------------------|
+
+
+----I can't find the Home Cartridge games I want. Are you sure I can't use MVS cartridges 
+in my Cartridge system?
+         Yes, I'm sure, I speak that from experience(I bought a Ninja Master's MVS cart on about 
+1/20/97, and it wouldn't fit in my home system). And do you know the reason why SNK made the MVS and Home
+Cartridges incompatible?  Because arcade operators couldn't buy the "cheap" home games for arcade use. 
+         Don't fret, you can try to find those hard-to-find games, if you look hard enough. 
+
+
+----Are the NEOGEO MVS boards JAMMA?
+       Of course they are, the main boards indeed have to be in order to
+run on mainstream cabinets and the Super Gun, you know. But, in order
+to play an MVS game, you need the main MVS board(1 slot through 6 slot),
+and a Super Gun, or a JAMMA harness and an arcade cabinet.
+
+
+----Is It Possible to Hook up my Neo Controllers to an MVS board?
+      From what I know about the MVS board, it is possible on the older boards to
+hook up the Neo controllers to the controller ports(where the joystick wires connect
+on the main board).  That's it, there shouldn't be any modifications necessary.
+
+
+----Then, should I get the MVS 1-Slot, because it's cheaper?
+       NO!!  Most 1-slot boards do not have Neo controller hook-ups, which means modifications
+to the board and wiring itself.  If you like doing that, then get a 1-slot.  If not, like most
+of us, get a 2-slot, 4-slot, or even a 6-slot one.  It'll pay off in the long run.
+
+
+----What system should I get, the home cartridge or the MVS cartridge system?
+        What kind of games do you want, rare games or not-so-rare
+games?  Games such as King of Fighters '97 are not really rare, 
+but ones such as Kizuna Encounter and Ragnagard ARE really rare.
+MVS games are also cheaper than the home games, and the so 
+called "collectors" charge lots of money for rare Neo home games.
+What is this world coming to?  $500 for a Neo home game?, Sometimes,
+the $500 carts are worth it(for me, sometimes), but for the majority
+of Neo owners, it is not. Those are the decisions you must weigh if you 
+make a decision on which one you prefer.
+         The home system is carried by a close-knit group of 
+vendors, who charge decent prices for games, and include nice boxes,
+instructions, and the like.  But, the rare games, collectors will
+drive up the prices on them, disheartening the person who has
+to buy his/her own games.
+          The MVS system has advantages, such as cheaper games(
+after a year however), games that are more easily found, and games
+that ARE the actual arcade games.  But, you need either a Super Gun
+(a JAMMA board that allows to play arcade games on your TV), with
+a NEO MVS board(1, 2, 4, or 6 slot machines), or a cabinet designed
+to play Neo games.
+           If all you are is a pure gamer(or someone who doesn't have 
+much space, and doesn't want a Super Gun), then the home system is
+for you.  But if you might want to make money with your cabinet, or
+have the TRUE arcade feel in your living room, the MVS is for you. Games
+on MVS are so cheap, such as AOF3 for $20, Puzzle Bobble for $40, that you
+most likely will never go back to the Home system.
+
+
+----What's this about a trackball setup?
+        Yes, SNK has made a trackball game for the Neo-Geo, "The Irritating Maze".  It is totally
+analog motion as well.  It utilizes a special MVS board(with air compressor hook-ups and a special
+trackball controller for the game(setup)), and the MVS Cartridge. 
+        That means you can't put the MVS Trackball game cart into a regular MVS board, it will
+not work.
+        There are more games planned with the trackball setup for 1999 and 2000, so get ready for
+a treat, since the trackball games, albeit costly(because you can only get them in full kits, at
+$1000 apiece), have LOADS of replay value.
+
+
+----I want to get an MVS system(Arcade machine or Super Gun->MVS board), but where, or how 
+do I go about finding one?
+        That's a tough call.  First, decide if you have enough money
+($1000 or so for a new 1-slot machine with a 25" monitor), and the space
+to hold a big arcade machine.  If not, you can purchase a Super Gun
+system from MAS Systems, and attach an MVS board to it, in order to play
+MVS carts on your TV(costs $600-$750 for the package).
+        If you want the Super Gun package, you can find it pretty
+easily.  You call up MAS Systems, order the Super Gun, then you buy an
+MVS board and cartridges from the places listed below. But, if you want
+an arcade machine for Neo games, that's another matter......
+        Call up all the "Amusement Machines" dealers in the phone book
+in your area, and ask them these questions:
+    1. Ask if there are any arcade auctions in the area.
+    2. See if there are any machines for sale at the dealer.
+    3. Ask if any other dealers in your area might have what you're
+looking for.
+        Then, you can check out the dealers(including the ones I listed
+below, and across the internet), and see if buying used, or buying
+one new makes sense. 
+        But, shipping is the most important deal, when it comes to
+purchasing an arcade machine. And, it's not cheap, like regular Neo-Geo Home systems.
+Even if you buy one locally, you need to find a way to pick it up, and deliver
+it safely to your destination. If you buy one from a dealer that's more than 100 or 
+so miles away, the most(seemingly)effective way of shipping is by freight truck. 
+Well, that adds about 2 weeks to your delivery time, and costs about $250 or so to
+ship. It costs money to actually get the machine, you know. 
+        So, you can make the most cost-effective decision that way, by knowing
+about your choices, and making the right one.  But, please remember, that
+a video game is JUST a video game.....
+
+
+----Is SNK going to upgrade the MVS Board?
+        I've heard many rumors of SNK releasing an upgrade to the MVS board; a 32-bit upgrade of
+sorts, in late 1999.  There are two sides to this; first, this will extend the life of the MVS
+greatly, as it gives SNK more room to work with.  But, SNK is so used to programming for the
+older board, that the first few games for the updated board may not be up to par with the
+newer games on the 'older' board.
+
+
+|-----------------------------|
+|Neo-Geo Marketplace Questions|
+|-----------------------------|
+
+
+----Why can't I find my favorite NEOGEO cartridge?
+       When SNK makes games, they make very few cartridges now, but they used
+to make more than they did, due to the huge size of the games nowadays.  Produ-
+ction is now in the low-to-mid hundreds(or even in the dozens!), so buy them when 
+you can, and don't be afraid to spend $150 or more on a newer game, just not on
+anything older than that. Games older than that should be a lot cheaper(but may
+not be, if it is rare, like Sengoku 2, US version).
+
+
+----Do I have any NEOGEO Systems or Games for Sale?
+        Unless I specify that I have anything for sale, or if the offer
+sounds good to me, I won't sell my MVS Carts, unless I put them up for
+sale. Don't worry, if you want a game, I'll help you find it. I can find almost
+any Neo-Geo game(regardless of price) within 48 Hours, so just ask me. 
+I'll usually have something up on eBay....my eBay-name(www.ebay.com) is "olddon"..
+      
+
+----What makes more sense to buy, ONE new cartridge, or a LOT of old carts?
+       Personally, I would look at it this way: I could buy a new cartridge,
+such as King of Fighters '97, and play it somewhat for 5 months, or buy 5
+old games for that cost, and get maybe 1 month out of them, due to limited
+replay value out of them.  I would go with the new, except when there are 2 
+or more older games you want.
+
+
+----Someone said that Metal Slug is a RARE game. Where do I get it?
+       Metal Slug is indeed a rare game, as is a LOT of video games
+out on the Neo Cartridge and Neo CD(MVS? Fight Fever comes to mind).
+But do you really want the game, or want a rare piece of plastic? I've 
+played Metal Slug, and I think it's too easy of a game, and not worth
+the hassle to get it. Most of the rare games are rare, because they
+never sold well in Japan, or the U.S.. 
+       If you really want a rare game, make sure that you want the
+game.  I cannot emphasize that enough, it seems. Also, Japan is THE
+where you look for games, America isn't, because all the Japanese carts
+(at least most of them)are still over there, so...
+       Don't let the prices on games like that scare you, if you
+want them that bad, you can afford to pay $500 for that cartridge. But,
+I personally don't think that any game is worth that much, because
+all it is, is plastic and silicon. It's entirely your decision, 
+but I'm just giving my two cents.....depending on its rarity, of course.
+
+
+----I'm tired of my Neo Cartridge(or CD).  Where do I sell it?
+         Well, I'm assuming that you don't know anyone else with 
+your kind of Neo system(like myself). What you do, is follow this
+checklist below:
+     1. Make sure that you WANT to sell the game(s) in question.
+     2. Try to determine a good market value for your game, by 
+checking out the various newsgroups associated with this( rec.games-
+.video.marketplace comes to mind), and go from there.
+     3. Put Ads over the internet, telling how good of condition
+it is in, the price, does it come w/ box or instructions, and other
+general info that the people may need to make a judgment on the
+game.
+     4. Contact me! Depending on the game, I'll pay a good price 
+for your cartridges(sorry, no CDs).  Just ask!
+     5. Put it up for auction on www.ebay.com(eBay Auctions).
+     6. Sell your games to a company, such as GameDude, for some
+cash. But, they will not give you much for them, and the only
+good reason people have for selling them to GameDude is convenience.
+Make this the "last resort" option.
+        That should be enough to get you on your way to selling
+games over the internet.
+
+
+
+|----------------------|
+|Neo-Geo Technical Help|
+|----------------------|
+
+
+----How come my games look weird when I play them?
+       Well, you either need to clean your games very well, or you
+may have one of the PAL systems that was floating around here in 1992-1993.
+If you do, and your system is still under warranty(yeah, right!:) ),
+SNK will fix it free of charge.  If you aren't still under warranty,
+they'll fix it for a fee.
+
+
+----How come my Neo games don't work?
+        Well, you have to clean the games! I can speak from experience, and
+carts can get very dirty, and cleaning them shows you how much dirt
+there is on them.  You take a solution of Isopropyl Alcohol and
+water, and clean the contacts with a Q-Tip.  Also, if you just yank out
+the games instead of taking them out carefully, contacts, over time, 
+will partly come off.  So treat your carts well, and they will last a long time!
+         Or, you could have pushed the cartridge too far in, which
+will make bigger games(i.e.,King of Fighters '96) screw up. Put the 
+carts in ALMOST all the way, and push them back up a LITTLE bit to
+make them work. Always put the cartridge in, game logo in
+front, or else you may mess up the system contacts.
+        The last reason, is if you have a Japanese/American 
+switch on the back of your Neo-Geo(cart or CD), with it enabled
+in Japanese. Newer games will not work like that(from Fatal Fury 3
+-onward), so you must switch it back to American. I speak from
+experience(I bought a system from GameDude like that, and games
+like Crossed Swords and Fatal Fury 3 wouldn't work), so switch it back
+to American! The switch is usually between the power cord and AV 
+plug-ins on the back of the Neo-Geo.
+
+
+----I tried everything, but my screen looks garbled still! What should I do?
+        Well, if you tried what I said earlier, and it still doesn't
+work, follow these steps(I will NOT take responsibility for anything bad
+that happens):
+     1. Open up your system(or call SNK and have them fix it for you,
+for a fee of course), and find where your AV and AC outlet wires plug
+into the back of the machine.  Then find the cartridge port, and connect
+(or re-connect) the wires in all three, the AV, AC, and cartridge ports.
+MAKE SURE THE POWER IS NOT PLUGGED IN! 
+     2. Well, if you know a lot about soldering and electronics in general,
+ you can try to convert an MVS board into a home one, just take the AV ports
+, AC outlet plugs, and the cartridge plug(unless you want to play MVS games
+in your home system, which in order to do so, cut away the cartridge opening
+on the system casing). You may need an RGB-NTSC converter, depending on what
+you want to do(MVS or Home). However, these are very shallow descriptions, and
+are not attempted yet.  Don't do this yet, but if you choose to, e-mail me
+first, and we'll talk it over.
+     3. Use a step-down converter, to convert 110V to 100V.  This will make it run
+more efficiently, and may jump-start your system.  It is safe, since this 
+has been tested.
+     4. Send your system to SNK of America. Call them first, and get some
+prices on how to fix your system, you'll have to pay shipping both ways also, 
+so expect it. They'll fix it for you in about 3 weeks, depending on
+what they do, they'll charge accordingly. Make sure you tell them what
+you do, what the system does, and other things that they may need to
+pinpoint the problem.
+      I hope that solves your problems, if you have a Neo CD that needs
+fixing, just figure that when I say "cartridge port", I mean CD laser and
+mechanism(maybe controller to CD player, too, to run the drive) can be
+transported to the other system, if necessary.
+
+
+----How do I design a game for the NEOGEO?
+       Whoa, whoa, settle down! Remember, this is a topic, which has a
+lot more to it than the space I've devoted here on it. I'll give you the
+rundown on the sequence of events, in order to program a game for the
+Neo:
+     1. Get a developers' kit from SNK(home system based), so you have the 
+exact programs and tools that SNK uses themselves to make games for the Neo(This
+step can be sidestepped, but making a game compatible with the Neo later
+can be quite a hassle). It also costs upwards of $7500...
+     2. Now, get some developers' programs, load your computer up with RAM,
+and get a very good graphics card. Also, start learning to program in C
+(ANSI C, or Objective C), because you'll have to program the game this way(maybe
+Assembly code?).
+     3. Get an EPROM burner, which programs the ROMs needed for a Home
+Cart or an MVS game(CD-Recorder for CDs). You'll have to use a better,
+more finished ROM for the finished product, and construct a cartridge(or
+get a CD).
+     4. Playtesting. You have to playtest this game for bugs, and to test
+certain spots in a game, a LOT! But, if you need to test something that's
+far in the game, that's what codes are for, to get there in a flash(they are
+programmed in the game). Afterwards, you're almost done, but you may need to
+do a couple more steps.
+     5. Design the artwork and instructions for the game. Make sure that
+it looks pretty professional, and looks like current Neo instruction booklets.
+This is very important, as good artwork complements a good game, but bad
+artwork will make a good game look bad.
+     6. The final step, is to either send the EPROM to SNK, and they may buy
+the rights to the game(for some good money), or you can pay the licensing
+fee, and make Carts yourself(CDs), as a company. But, the licensing fee will
+run, on an average, over $500,000, so for most people, that is not a feasible
+option anymore, considering the limited run of Neo Carts(CDs are pretty
+limited too, certain ones).
+     Hope this helps, if you have any questions, feel free to e-mail me,
+I know some more about the subject, and I can share that with you, if you're
+interested.
+
+
+
+|----------------------|
+|Neo-Geo Game Questions|
+|----------------------|
+
+
+----You gave Art of Fighting ~ryuukonoken gaiden~ an Excellent rating.  But I heard that
+was a bad game from some places.  What's up with that?
+       Well, certainly other people has their opinions.  But, my reviews are
+compromised of my own experience playing the game, and other players' exper-
+iences with the same title.  Being that some titles I cannot play at all(I don't
+own a NeoGeo CD system), I rely on my sources to tell me about a certain title.
+But most of the time, the ratings are influenced by myself playing them. They are
+not biased toward any company, or any lineage of a game, as they are pure ratings,
+and that may help someone out when looking for a particular game.  In the
+case of Art of Fighting 3, I thought that it was an excellent game, when compared
+to Real Bout Fatal Fury Special, and easily was better than the rest of the Art
+series, so I gave it a high rating.
+        I worked hard on the following Game List and Reviews, so I hope this helps
+some people with their buying decisions.
+
+
+----Someone has Garou Densetsu 3 for $299, but I don't want to spend that
+much for it.  What is the market price for this game?
+       It's hard not to spend too much on a Neo-Geo game, especially if you want
+that title.  So, I have come up with a Market Price list for these games, so at
+least you have a guide to the prices.  But, I don't have all these games, they
+are just a Market Price guide to Neo-Geo Games.  I hope this helps, so you don't 
+overspend on the certain title.
+
+
+----How did you figure out the megabit counts for the CD games?
+       Simple, just access it with any program that reads data(such as CD Creator
+software), and see how many megs is on the disc. Then round down to the nearest
+megabit count that SNK has produced(let's say it said 155...then it would be 146,
+because the nearest megabit count down is 146).
+       Some of them are absolutely correct, others are in the vicinity. The cartridge
+ones are DEFINITELY correct.
+
+
+----What games do you own for the NEOGEO?  Are they any good?
+      I've been asked this question many times, so I'll make a quick answer to it.
+I own a good number of games on the MVS platform, and intend to get ALL of the games
+on the MVS platform.  Chances are, that I've played a certain game, so don't hesitate
+to ask me about it! :)
+   
+
+----Are there any significant oddities pertaining to the Neo-Geo and its
+games?
+       Well, there are 3 that I can think of right now(meaning to production
+oddities, not game translation quirks, which are too numerous, and funny to
+mention), which are the following:
+   1.  Minnasanno Okagesamadesu, one of the Mahjong Cartridge games for Neo,
+seems to be the only Cartridge game without any Megabit Count specified on the
+box(no cart symbol with a number inside it). It was also the game which was 
+made(in prototype form) with a built in modem, for the Neo-Geo Network..
+   2.  Twinkle Star Sprites, Alpha Denshi(ADK)'s last game on Neo, was made on
+Neo Cartridge in limited amounts.  But, ADK ran out of instruction books for the
+cartridge version, so they made the rest with photocopied instructions. 
+   3.  Tokuten Ou(Super Sidekicks) , one of the first soccer games out on the Neo,
+was a great game in its time.  One problem though, was that in championship mode,
+while facing the third team(?), the game will glitch up.  This is on EVERY copy
+of Super Sidekicks, so when that happens to you, don't sweat it.
+   4.  League Bowling, one of the first titles on Neo-Geo, was packaged with 4
+different boxes.  There is the Japanese version, with polka dots and pins all 
+around; the Japanese version in a cardboard box(like NES boxes); the US version
+with 26 MEGA on it; and the most common version, with a newer-style design on it,
+and says 26 MEGS on it.
+   5. The Irritating Maze, a Marble Madness-type game, is on the Neo platform(has a 
+specialized MVS board with it), but requires a TRACKBALL to play, not the joystick! 
+And, Pop and Bounce, you can play it with a paddle-type joystick, like Arkanoid's!
+   6. Mahjong Kyoretsuden and Mahjong Story, two different releases, by two different
+companies, but the SAME game? Well, ADK's Mahjong Story has a different cover and intro,
+but it's the same as SNK's Mahjong Kyo Retsuden, essentially.
+   7. The Neo-Geo Cart system, there were pics of it in 1996 issues of NeoGeo Freak, where
+it has red buttons on the joystick, and a red reset button(Japanese cart system, everything
+else is just like the regular cart system). This may be the last iteration of the Neo-Geo
+Cartridge system.
+   8. Stakes Winner, by Saurus, has 80 Megs in Japanese, and 98 in American! That's right,
+DIFFERENT Megabit counts! Also, Viewpoint, by Sammy, has 72 Megs in Japanese, 74 in American!
+   If there's any more to add to this, feel free to e-mail me at CMull11217@aol.com.
+
+
+----Which games for the Neo-Geo are only available in Japanese?
+     Well, this is a big list, all these games(Cart and CD) are only available
+in Japanese(NOT US) form. On MVS, most, are in American(European)form. The list below, means 
+that none of the games below are in any American/European form.  Here it is:
+   ADK World
+   Art of Fighting ~ryuukonoken gaiden~ Limited Edition
+   Bakatonosama Mahjong Manyuki
+   Band of the Fighters
+   Chibi Marukochan Deluxe Quiz
+   Chotetsu Brikin'ger ~iron clad~
+   Crossed Swords 2
+   Futsal ~pleasure goal 5-on-5 street soccer~
+   Idol Mahjong ~final romance 2~
+   Jyanshin Densetsu
+   King of Fighters '96 CD Collection
+   Mahjong Kyoretsuden
+   Mahjong Story
+   Minnasanno Okagesamadesu
+   Neo-Geo CD Special
+   Oshidashi Zintrick
+   Quiz Daisousa Sen
+   Quiz King of Fighters
+   Quiz Meintantei Neo Geo ~Quiz Daisousa Sen Part 2~
+   Shinsetsu Samurai Spirits Bushidoretsuden
+   Syougi No Tatsujin
+
+
+----How come new cartridges don't come with sealable stickers anymore?
+       Well, up till ~Bakumatsu Roman~ Gekkano Kenshi(Last Blade) was released,
+SNK utilized sealable stickers on the side of the carts to determine that
+they were new. But, SNK just ran out of stickers, and since most carts are kept
+in 'like new' condition, they just didn't use them anymore.
+
+
+----On NAM-1975, how come there's two stickers on the game, where it says NAM-1975?
+       From NAM-1975 up till after the release of Samurai Shodown, for the US games,
+SNK just took production Japanese games, and slapped a US sticker on the Japanese game,
+to make US games.
+       The games are legit; there's nothing wrong with them.  But, sometimes, the
+double-stickering of the games looks unsightly.
+
+
+----What games are recommended for the NEOGEO(CD)?
+        There are many, many games to pick from on the NEOGEO platform,
+but picking through the bad ones can be time-consuming, and costly.
+Well, I've come up with a recommended list, as all these are recommended
+by myself, AND the plethora of video game magazines that once reviewed
+them.  Here is the list:
+    Art of Fighting ~ryuukonoken gaiden~(Art of Fighting 3)(Fighting)
+    King of Fighters '95(Team Fighting)
+    Shin Samurai Spirits ~Haohmaru jigokuhen~(Samurai Shodown 2)(Fighting)
+    World Heroes Perfect(Fighting)
+    Garou Densetsu 3 ~haruka-naru tatakai~(Fatal Fury 3)(Fighting)
+    Last Resort(Shooter)
+    Magician Lord(Action)
+    2020 Super Baseball(Sports)
+    Dunk Dreams(Street Hoop)(Sports)
+       That should get you started, with 9 quality games. Remember,
+this is what I recommend, as you may not like a certain game(you can
+always substitute), or you can't find a particular title, so this
+list is NOT set in stone. But if you want quality, these are the best
+ones to play!
+
+
+----What is the Biggest Game for the NEOGEO currently?
+         For games that are released, King of Fighters '98 ~dream match never ends~ is already 
+released, and is 683 MEGS!  It has almost every KOF character made, 50 of them in this game!
+         Just so you know, games with bigger megabit counts may not be always better, but most 
+are indeed better((Magician Lord is better than Top Hunter, but Last Blade is a LOT better than Fight Fever).
+I get a lot of questions, on if games that are bigger, are better, so here's the answer).
+
+
+----How does SNK's best match up against Capcom's best?
+         Well, in my humble opinion, unless SNK makes some improvements to the MVS board,
+they will lose the fighting game crown to Capcom.  I mean, Last Blade 2 is great, but what
+would the general public rather play; Last Blade 2 or Marvel VS Capcom.  I told ya,
+Marvel VS Capcom.  Even though LB2 is excellent, SNK should get on the ball, and stop
+reveling in mediocrity(on the MVS, HNG 64 is THE platform).
+
+
+|---------------|
+|Other Questions|
+|---------------|
+
+
+----Can the NEOGEO handle more than 330 Megs?
+        Of course, there is no limit to how much data can be fit onto a Neo cartridge, and 
+the limit is not 330 Megs. Called the "Pro-Gear Spec", which is just a name for the
+ROM addressing technology of the Neo-Geo.  Back in 1990, SNK had to give a certain Megabit 
+count as their maximum, and they called it "Max 330 Mega". Now, there are games twice as
+big as 330 Megs(King of Fighters '98).
+
+
+----Are NEOGEO games compressed?
+        Compressing a Neo-Geo game? Haha...that's funny. SNK makes it a point NOT to compress
+a game, to try and get the high megabit counts in it, to boast about having the bigger game.
+As a general rule, NONE of SNK's games are compressed one bit.
+
+
+----What is GIGA POWER, which I've been seeing on intro screens on games like Real Bout
+Garou Densetsu 2. Is it more than a marketing tool?
+       Yes, it is more than a marketing tool. Unlike Sega's 'Blast Processing', this
+'GIGA POWER' allows SNK to address higher memory on the ROMs, making for games with
+a less grainy look to them, and optimizes them to run faster.
+       For games Real Bout Garou Densetsu 2 and newer, they utilize the 'GIGA POWER'
+technology, for better quality games. For information purposes, Bakumatsu Roman Gekkano Kenshi
+(The Last Blade) is the biggest non-GIGA POWER game, weighing in at 474 Megs.
+
+
+----What about the HYPER NEOGEO 64 that I've heard about?
+        This is SNK's next generation system(so aptly named!), and may 
+become a reality in the home, but a sure thing in the arcade.  
+        The HYPER NEOGEO 64 also sports racing games, and gun=based games
+also.  There are prototypes of Ryuukonoken 4 out on the HYPER NEOGEO 64
+and SNK has released Fatal Fury:Wild Ambition for it as well.
+        The main problem, is that SNK needs to make some 2D games for it, as 
+it can do 2D extremely well, but there are only 3D type fighting games for it.
+Even though Samurai Spirits 64 II ~asura zanmaden~ is out, and is absolutely
+an awesome game, SNK needs to go back to their 2D roots. Fatal Fury:Wild
+Ambition is even better, but a 2D game would be extremely awesome on it!
+       I have made a Hyper Neo Geo 64 FAQ, it is on my web page at:
+http://chrismullins.home.ml.org/ , or should be at GameFAQs and Sega Sages.
+
+
+----Are there any Back-Up units for the NEOGEO?
+        Man, I wonder what someone would need them for? :) Anyways, you
+could probably find one of the old Multi-Game Doctor units that could be
+floating around.  But, since there are no more back-up units in production,
+and the Multi-Game Doctor cost about $1300 New, you'll have to pay a pretty
+penny to get your hands on one now.  Unfortunately, I heard that it took about
+10 minutes to load up a game on the device.
+
+
+----Do you know any CODES for any Neo games?
+      Of course I do.  Following, are most of the codes for games on
+the Neo.  If there's any more that you would like to add, please notify
+me at CMull11217@aol.com. Names are in AMERICAN form....
+      Here they are:
+
+ Art of Fighting 2
+
+ More power for the second game: To do this , you must own Art of Fighting 1 & 2
+on your Memory Card. First, win all 3 bonus games on Art of Fighting 1 and save your 
+game. Then go to Art of Fighting 2 and then. choose load memory. Then choose the Art 
+of Fighting 1 option you will be given. You will begin the game with all of the charac-
+teristics of the AOF1 bonus stages completed in Art of Fighting 2, with extra power to boot!
+
+ Art of Fighting 3: The Path of the Warrior
+
+ Use Sinclair: Start at Jin, press C, left, C, left.....repeat till you reach Robert.
+
+ Use Wyler: Start at Robert, press C, right, C, right...repeat till you reach Jin.
+
+
+ Double Dragon
+
+ Play as Duku or Shorko: At the character select screen, put the cursor on Billy, then Marian, 
+then Chung Fu, then Jimmy for 4 seconds each time. If you do this code correctly, you will 
+hear someone say ,"BINGO!". Now you can choose Duku or Shorko. 
+
+ Fatal Fury Special
+
+ Sound Test: Pause the game, then press, in order, A, B, C, D, A. 
+
+ Play as Ryo Sakazaki: Reach Ryo Sakazaki(do not die once), and beat him. Then,
+wait for the demo fights to begin. After it says "Fight", enter the following:
+   Up, Left, Down, Right, Up, A, Up, Right, Down, Left, Up, C
+ You should hear Ryo's taunt. Now press START and select a versus game. To select
+him, he's at the lower right, next to Krauser.
+
+ Fatal Fury 3
+
+ Tiny characters: This works in the versus mode only. Once you select the two 
+fighters, hold B and C on both controllers all the way through the loading screen 
+until the match starts. You have to do it again for each fight you want the code to 
+take affect. 
+
+ Hidden Characters: When you defeat Jin Chonrei and finish the game, save it. 
+Now load the game and choose "NEW GAME".  Then, at the character select screen, move the 
+cursor, to Terry, Hon Fu, Mai, Geese, Bob, Sokaku, Andy, Bash, Joe, then Mary; 
+each time you move to a fighter, press B. 
+Then, you will hear a voice say "Here comes the new fighters!" 
+
+ Kabuki Klash(Tengai Makyo Shinden)
+
+ Boss Code: Go to the battle mode, then push B 12 times, then right 8 times on 
+controller 1. The screen will flash and you will have control of Manto Ape and 
+Karakuri. It will work on controller 2 as well.
+ 
+ Change Color: After entering the code above, do the following: Select Yagumo: 
+press A, A, forward+A, C. Her clothes will change to white if you did it correctly. 
+Choose Kinu: press down, down-back, back, down-back, forward, BC. Her outfit will 
+change to purple. 
+
+ King Of Fighters '94
+
+ Blood and Bouncy Code: On the high scores screen press A and D on controller 1 
+while pressing B and C on controller 2. 
+
+ King of Fighters '95
+
+ Playable Bosses: Pick "Team Edit". At the character select press up+B, right+C, 
+left+A, and down+D. Saisyu Kusanagi and Omega Rugal will appear. 
+
+ Blood and Bouncy Code: On the high scores screen press A and D on controller 1 while you 
+press B and C on controller 2. 
+
+ King of Fighters '96
+
+ Boss Code(CD only): Press and hold the start button, then press up+B, right+C, left+A, down+D. 
+
+ King of Fighters '97
+
+ Play as Orochi Iori: At the character select, put the cursor on Iori, then hold start 
+and press left, right, left, right, left, right, A+C. 
+
+ Play as Orochi Leona: At the character select, put the cursor on Leona, then hold start
+and press up, down, up, down, up, down, B+D.(after inputting the Iori code)
+
+ KOF 94 Kyo: Highlight Kyo Kusanagi, hold start and then press any button. 
+
+ Play as the Orochi Team: At the character select, put cursor on Shermie, hold start 
+and then press up, left, down, right, up, down, B+C. 
+
+ See your team's attitude: While choosing a character at the order selection screen, 
+hold C. A smiley face will appear that represents the character's attitude. A smiling face
+means "always aid" and will add 1 bar to the second character in advanced mode. 
+A neutral face means "random aid". A frowning face means "never aid" and will 
+remove all power bars. 
+
+ Choose a winning pose: Hold A, B, or C to select your pose. 
+
+ Fu'un Super Tag Battle
+
+ Boss Code: Using them will put you under the following conditions:
+ 1.No memory card saves.
+ 2.No name sign in, for high scores. 
+ 3.No ending (story). 
+ 4.Fight alone. 
+   At the team select screen, set the cursor on Mezu. Move left, up, right, 
+you'll be on Gozu. Circle the screen once counterclockwise, returning to Gozu. 
+Press D, you'll hear Jyazu's laugh. Jyazu is above Gozu's panel, tap up to access him. 
+(up again to return to Gozu) It's the same for King Leo, who is above King Lion's panel. 
+
+ Magical Drop 2
+
+ Hidden Characters: At the character select, highlight the following characters 
+and press down (in order, of course): The Fool, Magician, High Priestess, 
+Chariot, Justice, Sorceress,  World, Devil. You may now select Strength or Empress. 
+
+ Ninja Masters
+
+ Play as Ranmaru and Nobunaga: Begin a one-player game. On the first player's side, 
+set the cursor on Kamui and press left, down, left, up, left, down-left, up, right, 
+down, right, up, C and D. The bosses will appear. 
+
+ Beat the Clock: This is for a 1P game only. At the character select, the cursor 
+will start on Kamui. Once there, press down, left, up, left, down, left, up, left, 
+down, right, right, right, right, up. Your cursor will be back on Kamui again. 
+Press C and D together, now you can pick your character. The time attack will 
+be canceled if player 2 decides to join the game. 
+
+ Pulstar
+
+ Full Power(CD only): This code will let you restore your power whenever you 
+are blinking (when the game starts or you've detonated your probe). To do it, 
+press up, up, down, down, left, right, A, B. 
+
+ Stage Select(CD only): On the "Stage Start" screen, select the stage with 
+all four buttons (A, B, C, D) at once. This will give you access to stages 
+5, 6, 7, 8. For example, highlight stage 1, then push all 4 buttons to 
+select stage 5. Stage 2=6, 3=7, 4=8. 
+
+ Demos(CD only): At the title screen hit left 7 times then right once. 
+Now pressing A-D on either controller will show the corresponding cinema. 
+1P=demos 1-4, 2P=demos 5-8. 
+
+ Real Bout Special
+
+ Play Geese Howard: By finishing the game without losing a round you will 
+obtain the status of "Ace Fighter", then at the Ranking screen press: right, 
+up-right, up, up-left, left, down-left, down, down-right, right, down-right+ABC. 
+If done correctly, you will hear Geese say: "Come on." 
+
+ "EX" Versions of Characters: At the character select, move to the character 
+you choose to play as, then do the following: Hold the start button 
+(don't let go of it!) Tap buttons in sequence: B, B, C, C. Now hold down the 
+B button for about a second. While still holding B (and Start), press and 
+hold the C button. While holding these three buttons, press A or D to select 
+your character in Shadow form. You may now let go of all the buttons. 
+(A or D is used to select the color of your character's clothes) 
+
+ Samurai Shodown
+
+ Play as Amakusa: Select any character and enter versus mode. Lose and then 
+save the game. Load the game and then select Charlotte with controller 2 
+and continue the game. Press start on controller 1 in the bonus phase. 
+Player 2 will transform to Amakusa. 
+
+ Samurai Shodown II
+
+ Blood Code: Go into the options. Highlight "EXIT" and press A+B+C+D simultaneously. 
+
+ Play as Kuroko: Start a two-player game. On the character select screen, press up, 
+down, left, up, down, right+A. You may now select Kuroko. 
+
+ Unlimited POW : Press start on controller 1, and move to the option mode. Press 
+start on controller 2, then in the options menu, you can now change the POW 
+setting from "NORMAL" to "MAX". 
+
+ Samurai Shodown III
+
+ Play as Minazuki Zankuro: Join into a 1-player game on controller 2. At the 
+character select, move the joystick from Shizumaru; left, left, down, right, 
+right, up, right, down, right, right, up, left, left. You will be back at 
+Shizumaru. Once there, wait about 3 seconds, then press A,B, and Start 
+simultaneously. Minazuki Zankuro will appear. 
+
+ Samurai Shodown IV
+
+ Seppuku(Suicide): While playing, press left, right, down+start.
+
+ Blood Code: You will get blood and the ability to perform "No Contest" moves. 
+On the option screen go to "EXIT" and press ABCD all at the exact same time. 
+
+ Play as Minazuki Zankuro(CD only): In the versus mode, hold the D button 
+and press "A". Both players may play as Zankuro, but in the versus mode only. 
+
+ Twinkle Star Sprites
+
+ Play as the bosses: On the character select screen hilight Load-Ran, 
+press up 4 times and press a button to select Sprites, or press down 
+4 times and press a button to select Memory. Also instead, you may 
+highlight Griffon (the group with 3 people) and follow the same procedure 
+to select Mevious (up) or Dark-Ran (down).
+ 
+ Waku Waku 7
+
+ Calendar Mode: Wait for intro to loop 3 times.
+
+ Reverse Title: You will get it, when credit count is 7 or 77.
+
+ World Heroes Perfect
+
+ Play as Neo Dio: At the character select screen, hold B and press up, up, 
+down, down, left, left, right, right, BC. 
+ Play as Son-Goku: At the character select screen, hold C and press up, up, 
+down, down, left, left, right, right, BC.
+
+
+
+|-----------------|
+|Neo-Geo Game List|
+|-----------------|
+
+     This is the most complete Game List anywhere on the internet. Dare to compare...
+     Some may not be out yet, but most are CD titles, and carts are given megabit 
+counts. I'm also rating the games I have played on cartridge here. I will not list 
+prototype games, since only a few of them has actually been found(or seen the actual 
+game at work).
+     Also, where it says MVS only...that means that it only comes in MVS form. If you
+come across a home of an MVS only title, then it's a Converted game. There are CD Only
+releases, meaning that the game is either CD only, or MVS and CD Only.
+
+ Here it is:
+     (1 being worst, 20 being best)
+  ALL ARE IN JAPANESE NAME!!!(American translations of names are below)
+  139 Separate Games Indexed
+
+ACTION:
+--------------
+Burning Fight(54 Megs)(okay action game, decent replay value, 10/20)
+Crossed Swords(50 Megs)(set a new genre for action games, 17/20)
+Cyber-Lip(50 Megs)(alright action game, 14/20)
+Eight Man(46 Megs)(replay value is zilch, 9/20)
+King of the Monsters(55 Megs)(great 2P player action, very hard, 17/20)
+King of the Monsters 2(74 Megs)(decent action, way different from prequel, 11/20)
+Magician Lord(46 Megs)(modestly difficult action game, set precedent for graphics, 16/20)
+Metal Slug(193 Megs)(very good game, one of SNK's all time greats, 19/20)
+Metal Slug 2(362 Megs)(excellent sequel, but still too easy, well-done graphics, 17/20)
+Miracle Adventure(90 Megs)(very easy action game, nice graphics, 10/20)
+Mutation Nation(54 Megs)(another Final Fight-clone, 10/20)
+Ninja Combat(46 Megs)(an older version of Sengoku, awful, 8/20)
+Ninja Commando(54 Megs)(scrolling action game, not great, 13/20)
+Raguy(47 Megs)(think Mario 2 NES, with smaller characters, 12/20)
+Robo Army(45 Megs)(one of the better action games, good replay value, 15/20)
+Sengoku Densyo(55 Megs)(long action game, not real easy, 14/20)
+Sengoku Densyo 2(74 Megs)(easy, rare, decent action game, 15/20)
+Shock Troopers(346 Megs, MVS Only)(a newer Ikari Warriors, excellent, 18/20)
+Shock Troopers ~second squad~(514 Megs, MVS Only)(excellent sequel, rendered, 18/20)
+Super Spy(55 Megs)(defined 3D action genre, like Crossed Swords, 16/20)
+Top Hunter(110 Megs)(too easy, bad controls, looks good though, 11/20)
+--------------
+
+FIGHTING:
+--------------
+Art of Fighting ~ryuukonoken gaiden~(298 Megs)(easily the best Art game, animation and music superb, a best buy, 19/20)
+~Bakumatsu Roman~ Gekkano Kenshi(474 Megs)(perfect graphics, mood of the game is too dull, 18/20)
+~Bakumatsu Roman~ Dai Ni Maku Gekkano Kenshi(544 Megs)(new sequel to LB, improved graphics, 18/20)
+Breakers(210 Megs)(like Street Fighter Zero, great fighter, 18/20)
+Breakers Revenge(242 Megs, MVS Only)(updated version of Breakers, very well done, 18/20)
+Chojin Gakuen Gowcaizer(186 Megs)(alright, lots of moves, but the AI is very cheesy, 16/20)
+Crystal Legacy(98 Megs, MVS Only)(very old, outdated, uses as little animation as possible, 8/20)
+Double Dragon(178 Megs)(good, technical, newer styles, excellent game, 18/20)
+Fighters' History Dynamite(122 Megs)(basic fighting characteristics, just a standard fighter, 11/20)
+Fire Suplex(106 Megs)(very hard wrestling game, learning curve is high, 15/20)
+Fu'un Mokujiroku ~kakutou sousei~(190 Megs)(weird play mechanics and characters, awful, 7/20)
+Fu'un Super Tag Battle(242 Megs)(a million times better than Savage Reign, updated graphics, 19/20)
+Galaxy Fight(169 Megs)(weird, good fighting game, great music, 16/20)
+Garou Densetsu ~shukumei no tatakai~(55 Megs)(classic, hard to control, hard though, 12/20)
+Garou Densetsu 2 ~arata-naru tatakai~(106 Megs)(vast improvement over original, 15/20)
+Garou Densetsu Special(150 Megs)(great sequel to FF2, more characters, 15/20)
+Garou Densetsu 3 ~haruka-naru tatakai~(266 Megs)(great fighter, slow game pace though, 16/20)
+King of Fighters '94(196 Megs)(first and is a classic, control is a little off, 16/20)
+King of Fighters '95(250 Megs)(the best buy on the Neo, damage is high, challenging, 19/20)
+King of Fighters '96(362 Megs)(excellent, but the computer AI is cheap, 18/20)
+King of Fighters '97(460 Megs)(very modern, excellent game, updated KOF 96 somewhat, 18/20)
+King of Fighters '98 ~dream match never ends~(683 Megs)(the utlimate KOF, includes everything, superb graphics, 19/20)
+Ninja Master's ~haoh-ninpo-cho~(330 Megs)(not like the other fighters, very intricate combo system, great music, 19/20)
+Real Bout Garou Densetsu(346 Megs)(hard to get used to for Garou Densetsu fans, but excellent game overall, 17/20)
+Real Bout Garou Densetsu Special(394 Megs)(best Garou Densetsu to date, has more storyline than RBGD2, 18/20)
+Real Bout Garou Densetsu 2 ~the newcomers~(539 Megs)(new characters alone doesn't make a sequel, good sequel, 17/20)
+Ryuukonoken(102 Megs)(dated fighter, great graphics for its era, 11/20)
+Ryuukonoken 2(178 Megs)(somewhat better, improved control, worth of an investment, 15/20)
+Samurai Spirits(118 Megs)(the original, plays slow, but is a pretty realistic game, 13/20)
+Samurai Spirits ~Zankuro musouken~(282 Megs)(very solid game, lots of damage, best graphics of SS series, 18/20)
+Samurai Spirits ~Amakusa kohrin~(378 Megs)(great controls, and very fun, graphics took a hit though, 17/20)
+Shin-Oh-Ken(338 Megs)(original, grainy graphics, thumb-buster, and hard, 16/20)
+Shin Samurai Spirits ~Haohmaru jigokuhen~(202 Megs)(probably the best sequel to any game of SNK's, great, 17/20)
+Tengai Makyo Shinden(202 Megs)(very easy, includes Far East of Eden characters, original, 15/20)
+Tsuukai GanGan Koshinkyoku(178 Megs)(a weird fighter, supposed to be like a real street fight, 13/20)
+Waku Waku 7(259 Megs)(most unusual fighting game, downright excellent, 19/20)
+World Heroes(82 Megs)(great in its era, decent graphics, 13/20)
+World Heroes 2(146 Megs)(very slow, added more characters, great sequel though, 16/20)
+World Heroes 2 Jet(178 Megs)(still too slow playing, was just a rehash, 11/20)
+World Heroes Perfect(226 Megs)(fixed problems of WH2J, excellent, and pretty difficult, best buy, 19/20)
+--------------
+
+PUZZLE:
+--------------
+Bakatonosama Mahjong Manyuki(48 Megs)(very good Mahjong, technical, no filler, 15/20)
+Chibi Marukochan Deluxe Quiz(118 Megs)(anime based quiz game, very popular, like a game show, 18/20)
+Gapporin(54 Megs, MVS Only)(like Super Breakout in ways, EXCELLENT, 19/20)
+Gururin(42 Megs, MVS Only)(decent game with traces to Columns on Genesis, very hard, 15/20)
+Joy Joy Kid(22 Megs)(most primitive game I've ever played, not great, 8/20)
+Jyanshin Densetsu(82 Megs, MVS, CD Only)(adventure mahjong game, more modern, worth your time, 16/20) 
+Magical Drop 2(82 Megs)(addicting puzzle game, and has lots of replay value, 16/20)
+Magical Drop 3(174 Megs)(LOTS of improvements over prequel, excellent, loads of replay value, 18/20)
+Mahjong Kyoretsuden(42 Megs)(pretty decent mahjong, has some nudity, and is very old, 14/20)
+Mahjong Story(42 Megs, MVS, CD Only)(Same as Mahjong Kyo Retsuden, with different title screen, 14/20)
+Minnasanno Okagesamadesu(54 Megs)(animated mahjong, very graphical, funniest game I've ever seen, 17/20)
+Money Idol Exchanger(74 Megs, MVS Only)(Magical Drop-like puzzle game that uses basic math skills, addicting, 17/20)
+Neo Bomberman(138 Megs, MVS Only)(finally, bomberman with Neo quality, just like the PC Engine versions, 19/20)
+Neo Mr. Do!(50 Megs, MVS Only)(to many people, it totally destroyed the original, not good, 8/20)
+Panic Bomber(46 Megs, MVS Only)(one of the usual Tetris clones, extremely difficult, 17/20)
+Puzzle Bobble(32 Megs, MVS, CD Only)(also very addicting, very worthwhile indeed, old though, 14/20)
+Puzzle Bobble 2(46 Megs)(sequel to the acclaimed PB, 18/20)
+Puzzle De Pon(30 Megs, MVS, CD Only)(just like Puzzle Bobble, too much actually, 15/20)
+Puzzle De Pon R(32 Megs, MVS Only)(updated puzzles, and a new title screen are the changes for the '97 PDP, 16/20)
+Quiz Daisousa Sen(34 Megs)(like a detective game, an oldie but goddie, if you can read Japanese, 13/20)
+Quiz King of Fighters(122 Megs)(game with King of Fighters characters, Haohmaru and Nakoruru, 14/20)
+Quiz Meintantei Neo Geo ~Quiz Daisousa Sen Part 2~(50 Megs)(excellent quiz game, more detailed, 16/20)
+Syougi No Tatsujin(58 Megs)(Syougi, or Japanese chess, is here, Neo style, 16/20)
+---------------
+
+SHOOTER:
+---------------
+Andro Dunos(34 Megs)(dated feel to this shooter, I hated this game, 6/20)
+ASO 2 ~last guardian~(47 Megs)(dated feel, really old, shows its complacency, 10/20)
+Blazing Star(346 Megs)(sequel to Pulstar, excellent, great music, easy though, 16/20)
+Ghost Pilots(55 Megs)(1942 all over again, shows its age, 13/20)
+Last Resort(45 Megs)(for those who want Pulstar, but can't find it, 16/20)       
+NAM-1975(46 Megs)(a true original among the gaming world, shooter is still fun, 14/20)
+Operation Ragnarok(110 Megs, MVS Only)(graphics are average, but everything else is superb, 18/20) 
+Pulstar(305 Megs)(hardest shooter made, graphics and sound are awesome, 18/20)
+Sonic Wings 2(102 Megs)(good in its day, can be frustrating, 14/20)
+Sonic Wings 3(154 Megs)(very hard shooter, great, can be frustrating, 18/20)
+Twinkle Star Sprites(146 Megs)(weird genre represented, addicting and very fun, 19/20)
+Viewpoint(72/74 Megs)(hard shooter, great graphics and music, like Zaxxon, 18/20)
+---------------
+     
+SPORTS/OTHER:
+---------------
+2020 Super Baseball(46 Megs)(great baseball action, very well done, 16/20)
+Ashitano Joe Densetsu(46 Megs)(very old boxing, not worth the money, awful animation, 9/20)
+Baseball Stars Professional(50 Megs)(good baseball, old, 13/20)
+Baseball Stars Professional 2(68 Megs)(great baseball feel, 18/20)
+Big Tournament Golf(133 Megs)(a superb golf game that is addicting, 18/20)
+Dunk Dreams(94 Megs)(great arcade basketball, shows its age though, 14/20)
+Flip Shot(46 Megs)(a pinball game has FINALLY arrived on the Neo, well done, 16/20)
+Flying Power Disk(74 Megs)(very original, addicting game, 16/20)
+Football Frenzy(48 Megs)(decent arcade football, can be fun, 12/20)
+Futsal ~pleasure goal 5-on-5 street soccer~(162 Megs, MVS, CD Only)(you can have loads of fun with this one, 18/20)
+Goal!Goal!Goal!(120 Megs, MVS Only)(soccer quarter-sucker, not worth my time, 9/20)
+League Bowling(26 Megs)(lots of fun with 2+ players, 15/20)
+Nekketsu Toukyu Densetsu(190 Megs, MVS Only)(another addicting game on the Neo, 18/20)
+Neo Drift Out-New Technology(114 Megs, MVS, CD only)(Neo racing, which is a good effort, 15/20)
+Neo-Geo Cup '98(162 Megs)(new soccer game, has lots of replay value, worth the money, 18/20)
+Over Top(210 Megs)(very good driving game, needs to be 2P though, 16/20)
+Power Spikes 2(82 Megs, MVS, CD Only)(horrid volleyball sim, looks like an NES game, 5/20)
+Riding Hero(42 Megs)(the only motorcycle racing game, alright, looks old, 12/20)
+Soccer Brawl(46 Megs)(primitive soccer game, first effort, 11/20)
+Stakes Winner ~GI kinzen seihae no michi~(80/98 Megs)(horse-racing, by Saurus, realistic, 16/20)
+Stakes Winner 2(178 Megs)(horse-racing taken to a new level, 17/20)
+Tokuten Ou(54 Megs)(arcade soccer, old and is a classic, 13/20) 
+Tokuten Ou 2 ~real fight football~(106 Megs)(good, basic sequel, improved play mechanics, 15/20)
+Tokuten Ou 3 ~eikoue no michi~(158 Megs)(great arcade soccer simulation, 17/20)
+Tokuten Ou ~hono-oh no libero~(226 Megs)(very different from Super Sidekicks 3, too unbalanced, 16/20)
+The Irritating Maze(106 Megs, MVS Only)(trackball utitilized game, looks damn good, 17/20)
+Thrash Rally(46 Megs)(gets the "Trash Compactor" award, 2/20)
+Top Players Golf(62 Megs)(old, fun factor only thing going for it, 11/20)
+World Soccer '96(178 Megs, MVS Only)(realistic soccer simulation, excellent job, 18/20)
+-----------------
+
+CD ONLY:
+-----------------
+ADK World(82 Megs, CD only)(a more rudimentary version of Neo CD special, 10/20)
+Art of Fighting ~ryuukonoken gaiden~ Limited Edition(298 Megs, CD only)(contains special art and coin, 17/20)
+Band of the Fighters(68 Megs, CD Only)(a musical tribute to KOF series, 15/20)
+Chotetsu Brikin'ger ~iron clad~(178 Megs, CD only)(best horizontal shooter, IMO, better than Pulstar, 19/20)
+Crossed Swords 2(70 Megs, CD only)(the new sequel, somewhat better, 16/20)
+Idol Mahjong ~final romance 2~(146 Megs, CD only)(Video System's strip mahjong game, newest Mahjong game, 17/20)
+King of Fighters '96 CD Collection(122 Megs, CD only)(pics and stuff from KOF '96, not needed, 9/20)
+Neo-Geo CD Special(90 Megs, CD only)(showcases Neo-Geo games, good buy, 16/20)
+Oshidashi Zintrick(74 Megs, CD only)(weird puzzle game, addicting, like Puyo Puyo in a weird way, 16/20)
+Rally Chase(46 Megs, CD only)(see Thrash Rally.)
+Shinsetsu Samurai Spirits Bushidoretsuden(178 Megs, CD only)(no bells-and-whistles at all, solid RPG, 14/20)
+-----------------
+
+GAMES NOT YET RELEASED:
+-----------------
+Captain Tomaday(not released yet)(this is a decent shooter game, with an uninspired theme, 13/20)
+Metal X(not released yet)(the third Metal Slug game, looks to be a winner, 19/20)
+Musashi Ganryuki(not released yet)(excellent action game, along the lines of Magician Lord, 18/20)
+-----------------
+
+
+JAPANESE-AMERICAN NAME TRANSLATIONS(listed here are Japanese-English names,
+or games that are only Japanese(only Japanese MVS, for example).
+remember, only games that UNDERWENT a name change are here!!!):
+----------
+  2020 Super Baseball=Super Baseball 2020
+  ADK World is Japanese only.
+  Art of Fighting ~ryuukonoken gaiden~=Art of Fighting 3: The Path of the Warrior
+  Art of Fighting ~ryuukonoken gaiden~ Limited Edition is Japanese only.
+  Ashitano Joe Densetsu=Legend of Success Joe
+  ASO 2 ~last guardian~=Alpha Mission 2
+  Bakatonosama Mahjong Manyuki is Japanese only.
+  ~Bakumatsu Roman~ Gekka No Kenshi=The Last Blade
+  ~Bakumatsu Roman~ Dai Ni Maku Gekka No Kenshi=The Last Blade 2
+  Band of the Fighters is Japanese only.
+  Big Tournament Golf=Neo Turf Masters
+  Chibi Marukochan Deluxe Quiz is Japanese only.
+  Chojin Gakuen Gowcaizer=Voltage Fighter Gowcaizer
+  Crystal Legacy=Fight Fever
+  Dunk Dreams=Street Hoop
+  Fighters History Dynamite=Karnov's Revenge
+  Fire Suplex=3 Count Bout
+  Flying Power Disk=Windjammers
+  Futsal ~pleasure goal 5-on-5 street soccer~=Pleasure Goal 
+  Fu'un Mokijiroku ~kakutou sousei~=Savage Reign
+  Fu'un Super Tag Battle=Kizuna Encounter Super Tag Battle
+  Gapporin=Pop N'Bounce
+  Garou Densetsu ~shukumei no tatakai~=Fatal Fury
+  Garou Densetsu 2 ~arata-maru tatakai~=Fatal Fury 2
+  Garou Densetsu 3 ~haruka-naru tatakai~=Fatal Fury 3
+  Garou Densetsu 4=Fatal Fury 4
+  Garou Densetsu Special=Fatal Fury Special
+  Idol Mahjong ~final romance 2~ is Japanese only
+  Joy Joy Kid=Puzzled
+  Jyanshin Densetsu is Japanese only.
+  King of Fighters '98 ~dream match never ends~=King of Fighters '98: The Slugfest
+  Mahjong Kyoretsuden is Japanese only.
+  Mahjong Story is Japanese only.
+  Minnasanno Okagesamadesu is Japanese only.
+  Miracle Adventure=Spinmaster
+  Money Puzzle Exchanger=Money Idol Exchanger
+  Nekketsu Toukyu Densetsu=Super Dodge Ball
+  Neo Mr. Do! is Japanese only.
+  Operation Ragnarok=Zed Blade
+  Oshidashi Zintrick is Japanese only.
+  Pop and Bounce is Japanese only.
+  Power Spikes 2 is Japanese only.
+  Pulstar is Japanese only.
+  Puzzle Bobble=Bust-A-Move
+  Puzzle Bobble 2=Bust-A-Move EX
+  Quiz Daisousa Sen is Japanese only.
+  Quiz King of Fighters is Japanese only.
+  Quiz Meintantei Neo Geo ~Quiz Daisousa Sen Part 2~ is Japanese only.
+  Raguy=Blue's Journey
+  Real Bout Garou Densetsu=Real Bout Fatal Fury
+  Real Bout Garou Densetsu Special=Real Bout Fatal Fury Special
+  Real Bout Garou Densetsu 2 ~the newcomers~=Real Bout Fatal Fury 2: The Newcomers
+  Ryuukonoken=Art of Fighting
+  Ryuukonoken 2=Art of Fighting 2
+  Samurai Spirits=Samurai Shodown
+  Samurai Spirits ~Zankuro musouken~=Samurai Shodown 3: Blades of Blood
+  Samurai Spirits ~Amakusa kohrin~=Samurai Shodown 4: Amakusa's Revenge
+  Samurai Spirits ~Amakusa kohrin 2~=Samurai Shodown: Amakusa's Revenge 2
+  Sengoku Densyo=Sengoku
+  Sengoku Densyo 2=Sengoku 2
+  Shin-Oh-Ken=Ragnagard
+  Shin Samurai Spirits ~Haohmaru jigokuhen~=Samurai Shodown 2
+  Shinsetsu Samurai Spirits Bushidoretsuden is known as Samurai Shodown RPG.
+  Sonic Wings 2=Aero Fighters 2
+  Sonic Wings 3=Aero Fighters 3
+  Stakes Winner ~GI kinzen seihae no michi~=Stakes Winner
+  Stakes Winner 2 is Japanese only.
+  Syougi No Tatsujin=Master of Syougi 
+  Tengai Makyo Shinden=Kabuki Klash
+  Tokuten Ou=Super Sidekicks
+  Tokuten Ou 2 ~real fight football~=Super Sidekicks 2
+  Tokuten Ou 3 ~eikoue no michi~=Super Sidekicks 3
+  Tokuten Ou ~hono-oh no libero~=Super Sidekicks 4: The Ultimate 11
+  Tsuukai GanGan Koshinkyoku=Aggressors of Dark Kombat
+  Twinkle Star Sprites is Japanese only.
+  Waku Waku 7 is Japanese only.
+--------------
+
+
+|-------------|
+|MARKET PRICES|
+|-------------|
+
+ This guide is the most ACCURATE guide on the net, as I spend time watching the Neo market, from
+here and abroad.....it's nearly complete, if not all complete.....all names are in AMERICAN(from
+the above Game List, in JAPANESE...use the translations above to find the game you want..! :)   )
+
+ First price is I BUY price, second is SELL USED price, and third is BUY NEW price. Pay particular
+attention to the second column....
+
+ Also, for Neo-Geo MVS Carts...most games are from $10-$75...with only about 20-30 games going
+above that mark. You can ask me what a certain MVS game is worth, or search the MVS retailers
+from the list ner the bottom of this FAQ.
+
+NEO-GEO HOME CARTRIDGE:
+
+ System                     80  175  499
+ 3 Count Bout               20   40   99
+ Aero Fighters 2            35   80  199
+ Aero Fighters 3            80  139  229
+ Aggressors of Dark Kombat  50   79  119
+ Alpha Mission 2            10   20
+ Andro Dunos                20   39
+ Art of Fighting            15   30  179
+ Art of Fighting 2          29   60  199
+ Art of Fighting 3          70  179  259
+ Bakatonosama Mahjong Manyuki  79  99  149
+ Baseball Stars             10   15
+ Baseball Stars 2           20   50
+ Blazing Star              150  239  279
+ Blue's Journey              5   20
+ Breakers                  299  339  409
+ Burning Fight              18   35
+ Chibi Marukochan Deluxe Quiz  120  179  259
+ Crossed Swords             20   35
+ Cyber-Lip                  15   40
+ Double Dragon              80  125(300 for US version)
+ Eight Man                  39   69
+ Fatal Fury                  5   20  129
+ Fatal Fury 2               20   35  139
+ Fatal Fury Special         25   59  199
+ Fatal Fury 3               55   89  229
+ Football Frenzy            15   29
+ Fu'un Super Tag Battle    230  325  359
+ Galaxy Fight               40   89
+ Ghost Pilots               10   25
+ Kabuki Klash               40   89
+ Karnov's Revenge           25   39
+ King of Fighters '94       30   70  239
+ King of Fighters '95       59   90  259
+ King of Fighters '96       90  120  259
+ King of Fighters '97      130  155  279
+ King of Fighters '98      130  200  279
+ King of the Monsters       20   45
+ King of the Monsters 2     25   55
+ Last Resort                20   35
+ Last Blade                140  180  259
+ Last Blade 2              175  240  279
+ League Bowling             10   40
+ Legend of Success Joe      80  149
+ Mahjong Kyoretsuden        20   40   89
+ Magical Drop 2             80  159
+ Magical Drop 3            199  259  329
+ Magician Lord              15   40
+ Master of Syougi           79  129
+ Metal Slug                299  359
+ Metal Slug 2              150  230  259
+ Minnasanno Okagesamadesu   89  139  159
+ Mutation Nation            10   30
+ NAM-1975                   15   30
+ Neo-Geo Cup '98            80  200  250
+ Neo Turf Masters           85  189  299
+ Ninja Combat               20   40
+ Ninja Commando             20   45
+ Ninja Masters             189  339  399
+ Over Top                   89  159  229
+ Pulstar                   189  279  349
+ Puzzled                    10   40(170 for US version)
+ Quiz Daisousa Sen          69  119
+ Quiz King of Fighters      59   89
+ Quiz Meintantei Neo Geo-Quiz Daisousa Sen Part 2   109  199
+ Ragnagard                 189  289  369
+ Real Bout Fatal Fury       90  130  279
+ Real Bout Fatal Fury Special 105  130  279
+ Real Bout Fatal Fury 2    120  160  259
+ Riding Hero                25   39
+ Robo Army                  10   35
+ Samurai Shodown            20   45  189
+ Samurai Shodown 2          30   80  209
+ Samurai Shodown 3          60  129  299
+ Samurai Shodown 4          90  199  299
+ Savage Reign               30   70  159
+ Sengoku                    10   25
+ Sengoku 2                  50   89(250 for US version)
+ Soccer Brawl               15   35
+ Spinmaster                 20   50
+ Stakes Winner              80  120
+ Stakes Winner 2           100  169
+ Street Hoop                20   50   89
+ Super Baseball 2020         5   15
+ Super Sidekicks            10   25
+ Super Sidekicks 2          30   55
+ Super Sidekicks 3          45   80  199
+ Super Spy                  20   35
+ Thrash Rally                5   20
+ Top Hunter                 25   60
+ Top Players Golf            5   15
+ Twinkle Star Sprites      190  369  439
+ Ultimate 11               175  369
+ View Point                 79  140(250 for US version)
+ Voltage Fighter Gowcaizer  89  140  239
+ Waku Waku 7               170  299  349
+ WindJammers                60   99
+ World Heroes                5   20
+ World Heroes 2             20   40
+ World Heroes 2 Jet         25   55
+ World Heroes Perfect       99  159  279
+
+NEO-GEO CD:
+
+ Neo-Geo CD System          70  155  225
+ Neo-Geo CDZ System        100  245  300
+ Neo-Geo CD System*        150  290  375
+(above is the limited edition front-loading 1x unit, 2500 units made)
+ 3 Count Bout               15   30
+ ADK World                  15   30
+ Aero Fighters 2            20   29   49
+ Aero Fighters 3            25   44
+ Aggressors of Dark Kombat  15   30
+ Alpha Mission 2            10   29
+ Art of Fighting            30   59
+ Art of Fighting 2          10   24   39
+ Art of Fighting 3          30   39   69
+ Art of Fighting 3 Limited  35   50   80
+ Band of the Fighters       29   59
+ Baseball Stars             15   29
+ Baseball Stars 2           29   44
+ Blue's Journey             15   29
+ Breakers                   39   69   89
+ Burning Fight              15   30
+ Chotetsu Brikin'ger ~iron clad~  69  89  119
+ Crossed Swords             20   34
+ Crossed Swords 2           25   44   54
+ Cyber-Lip                  15   25
+ Double Dragon              29   39   44
+ Drift-Out New Technology   40   79
+ Eight-Man                  15   29
+ Fatal Fury                 30   59
+ Fatal Fury 2               10   29
+ Fatal Fury Special         15   29
+ Fatal Fury 3                5   20   39
+ Final Romance 2            50   79
+ Football Frenzy            10   29
+ Futsal                     39   74
+ Galaxy Fight               10   35
+ Ghost Pilots                5   29
+ Jyanshin Densetsu          40   89
+ Kabuki Klash               15   35
+ Karnov's Revenge           10   29
+ King of Fighters '94       15   24
+ King of Fighters '95       10   24   29
+ King of Fighters '96       20   39   49
+ KOF '96 CD Collection      14   24
+ King of Fighters '97       32   45   54
+ King of Fighters '98       34   52   74
+ King of Monsters 2         19   35
+ Last Resort                10   29
+ Last Blade                 29   59   69
+ Last Blade 2               29   59   74
+ Magical Drop 2             15   34
+ Magician Lord               5   19
+ Mahjong Kyo Retsuden       10   29
+ Mahjong Story              15   35
+ Master of Syougi           35   79
+ Metal Slug                 25   69
+ Metal Slug 2               20   54
+ Mutation Nation            15   29
+ NAM-1975                   15   39
+ Neo-Geo CD Special         15   29
+ Neo Turf Masters           25   50
+ Ninja Combat               10   24
+ Ninja Commando             19   29
+ Ninja Masters              34   59   79
+ Oshidashi Zintrick         19   39
+ Over Top                   30   59  
+ Power Spikes 2             19   39
+ Pulstar                    49   79
+ Puzzle Bobble              10   29
+ Puzzle De Pon              20   35
+ Puzzled                    10   29
+ Ragnagard                  19   49
+ Rally Chase                 5   19
+ Real Bout Fatal Fury       25   44
+ Real Bout Fatal Fury Special 25  44  49
+ Real Bout Fatal Fury 2     30   44   54
+ Riding Hero                 5   25
+ Samurai Shodown            15   30
+ Samurai Shodown 2           5   15   29
+ Samurai Shodown 3          15   34   44
+ Samurai Shodown 4          20   44   54
+ Samurai Shodown RPG        30   59   64
+ Savage Reign               10   30
+ Sengoku                    15   39
+ Sengoku 2                  20   39
+ Soccer Brawl                5   20
+ Stakes Winner              15   29
+ Street Hoop                 5   24
+ Super Baseball 2020        10   24
+ Super Sidekicks            15   29
+ Super Sidekicks 2          15   29
+ Super Sidekicks 3           5   15
+ Super Spy                  15   39
+ Top Hunter                 15   29
+ Top Players Golf            5   15
+ Twinkle Star Sprites       29   59   79
+ View Point                 29   44
+ Voltage Fighter Gowcaizer  25   39   59
+ Windjammers                10   29
+ World Heroes                5   19
+ World Heroes 2             10   25
+ World Heroes 2 Jet         10   25
+ World Heroes Perfect       29   45   59
+--------------
+
+
+|---------------|
+|NEO MARKETPLACE|
+|---------------|
+
+       These are all retailers that carry either the Home Cartridge, the
+Neo-Geo CD, or the MVS Carts and System.  Please enjoy!
+      You can call SNK, and they'll tell you a list of dealers that carry the
+NEOGEO, if you ask.  But, some of the places they give you are outdated, so don't 
+worry when most of the places they give you turn up empty.
+      Also, when I say "no phone #", I mean that there is no phone # posted, or
+that the person on the other line doesn't speak English(rarely the case though).
+
+ NEOGEO Cart/CD Stores:
+
+Apocalypse Games: no phone # (has lots of carts and CDs)"www.apocalypsegames.com/new.htm"
+Arcadia Multimedia:(44)113-293-0343 (temporary web page, has some stuff)"www.bfn1.demon.co.uk/arcadia.htm"
+Bubble Games:(55)21-254-7265 (has lots of Neo CDs)"www.sosserve.com.br/bubble.htm"
+BuyRite:(919)850-9473 (CDs, rarely carts, not good service)"www.buyrite1.com"
+Chip Shop 2000:(44)151-708-0022 (UK's source for Neo CD)"www.cshop.demon.co.uk/chipshop.html"
+Direct Shopping Ltd.: no phone # (limited selection of Neo in Brazil)"www.dshop.com/shopping/index.htm"
+Er'Gain Hobby: (65)449-0320 (Singapore's finest source of Neo)"members.xoom.com/ergain"
+Game Cave:(626)930-1300 (started to sell Neo carts again, at high prices, CDs too)"www.gamecave.com"
+Game Craze:(716)663-4310 (has some carts occasionally)"www.gamecraze.com/gamecraz.htm"
+Game Dude:(818)764-9506 (an excellent source of carts and CDs!)"www.gamedude.com"
+Game Express:(61)3-9898-1438 (Australia's best video game source)"www.gamexpress.com.au"
+Game Game: no phone # (another Spain source for Neo)"www.imk.es/cem/game.htm"
+Game Land:(310)791-3861 (has quite a few carts in stock)
+Game Locators: no phone # (can find any game, regardless of price)"www.gamelocators.com"
+Game Masters:(510)483-4263 (has some CDs, old carts for sale also)"www.game-masters.com"
+Game Source:(212)279-6758 (these guys may have what you're looking for)
+Game Source Online:(888)318-4263 (has some Neo stuff)"www.gamesourceonline.com"
+Gametronix:(65)270-0897 (another of Singapore's finest)
+Game World:(410)676-0670 (can look for rare carts if you want)"www.netgsi.com/~gwusa"
+Games Etc.: (415)731-1683 (has mostly Neo-Geo CDs)
+Games To Go:(612)798-5879 (has some carts, mostly older)"www.gamestogo.com"
+Intertain:(44)181-659-9149 (may have what you are looking for)"www.on-lne.co.uk/Intertain/main.htm"
+Japan Video Games:(626)281-9282 (CDs, new and used carts, great service)
+J&J Video Games:(717)644-1590 (may have some Neo-Geo games in stock)"www.sunlink.net/~jjvideo"
+J&L Games:(212)431-1541 (has some Cartridges and CDs)"www.jnlgame.com"
+Kevin's Import Game Heaven: no phone # (doesn't have much in Neo)"www.angelfire.com/mi/keviny/systems.html"
+Maro Videospiel:(49)711-221-422 (Germany's finest supplier of CDs, has Brikin'ger in stock)"www.maro-gmbh.com"
+MegaTech:(27)21-23-1887 (South Africa's biggest video game dealer)"www.cia.co.za/advert/games/megatech.htm"
+McVan's Video Game Trader:(219)493-3722 (can have some Neo equipment)"www.mcvansvideogames.com"
+Multimedia 1:(212)539-1039 (has older carts, most Japanese)"www.multimedia1.com"
+National Console Support:(718)523-5774 (has a LOT of imports, can find games)"www.ncsx.com"
+Neo-Logical: no phone # (a fan's website, who has a LOT of Neo games for sale)"www.eisa.net.au/~jobar"
+Neo-Geo Super Seller: no phone # (a great place to get Neo stuff)"www.alles.or.jp/~rgsir/index_e.html"
+Next Generation:(44)181-33-90-666 (UK's good source for many systems)"www.next-gen.co.uk"
+Raven Video Games:(651)774-9497 (this place will have lots of Neo-Geo in a little while)
+Royal Electronic:(818)781-6300 (has some Neo equipment, call for info)"www.royalelec.com"
+SNK Main Office:(408)292-4550 (has most of the carts, at a price!)"www.snkusa.com"
+Spielraum:(49)09131-205093 (actually, a very good selection of Neo stuff)"www.videospiele.com/spielraum"
+Spiel Station:(49)7151-526-506 (has every platform you can imagine)"www.spiel-station.com"
+Sunrise Import: (33)147-70-27-04 (France's import shop for everyone)
+Superfami.com: no phone # (Japanese stuff, also has other systems)"www.superfami.com"
+Swap USA:(404)792-7872 (has few cartridges and CDs)"www.swapusa.com"
+Telegames US:(972)228-0690 (has a limited selection of CDs, cheap though)"www.telegames.com"
+Telegames UK:(44)116-288-0445 (UK's source for Neo Carts, very good source)"www.telegames.co.uk"
+The Rage:(516)467-1679 (has a good number of newer CDs and cartridges)"www.therage.com"
+TrueGamers:(847)205-9644 (carries just CDs, located near Chicago)"www.dreamin.com/truegamers/"
+Video Connections:(416)340-1211 (Canada's only good source for Neo)
+Videogame Advantage: no phone # (trader board, with Neo on it)"www.io.com/~vga2000"
+Videogames Connections:(732)462-8343 (has some carts, but not much)"www.videogamesconnections.com"
+Videogame Depot:(516)582-5663 (has some Neo cartridges and CDs in stock)"www.videogamedepot.com"
+Videogames Unlimited:(414)764-7776 (has some Neo carts, sporadically)"members.tripod.com/~videogamesrus/index.html"
+Washiya: no phone # (great prices for Neo, but don't yet deal in it)"www1.sphere.ne.jp/washiya/"
+Yamatoku:(81)76-280-6315 (a very good Japanese source for New Neo stuff)"www.toku.co.jp"
+
+ NEOGEO MVS Stores:
+
+50th State Coin-op:(800)424-5050 (doesn't have a good selection at all)"www.gamegod.com"
+Automaticos Valls:(34)96-291-7026 (this place in Spain has got the goods)"www.automaticosvalls.com"
+Bondeal: no phone # (a great source for SNK MVS Stuff)"www.bondeal.com.hk"
+Bumper:(61)3-9696-9690 (Australia's best MVS Source)"www.bumper.com.au"
+Coinop International:(612)321-9632 (very good source of MVS stuff, great to deal with)"www.coinopintl.com"
+Cosmic Amusements: (852)2388-2101 (great Hong Kong source for MVS equipment)"home.netvigator.com/~cosmicco"
+Creideas: no phone # (great foreign source for MVS equipment)"www.vnet.es/creideas"
+Fuuki: no phone # (excellent Japanese MVS Source)"www.mediawars.or.jp/~fuukico/"
+Game City:(626)573-3832 (has MVS boards, carts, and other video games)"www.gamescity.com"
+Great Western Trading:(541)726-1813 (MVS carts and boards)"www.gwtrading.com"
+Hugo Neumann:(800)998-4846 (good, but high priced MVS carts sometimes)
+Kimble:(353)42-36574 (Ireland's finest supplier of arcade equipment)"www.kimble.ie"
+MAS Systems:(714)831-5760 (accessories, and the various cart system mods.)"www.massystems.com"
+Midwest Amusements:(847)364-7722 (has some MVS carts, a couple rare ones)"www.midwestamusement.com"
+MHP Ent. Ltd.:(44)125-45-6029 (another MVS source in the UK, call for info)"www.mhpuk.mcmail.com"
+Mondial Group:(914)738-7411 (is a little high in the price department)"www.mondialgroup.com"
+Outer Limits Amusements:(800)474-2637 (has some decent MVS stuff, nothing special)"www.outerlimitsgames.com"
+Presto PCB's: no phone # (Steve Eisner's selling place for lots of MVS stuff)"www.cdc.net/~presto/pcb"
+Rent-A-Game:(416)650-3718 (Canadian supplier of MVS units)"www.rent-a-game.com"
+Sage Electronik AG:(41)61-691-1555 (Swiss dealer in Neo MVS)"www.sage-ag.ch"
+State Sales and Coin:(410)646-4100 (MVS carts, complete machines)"www.sscoin.com"
+Tuning:(49)89-311073 (Germany's source of good MVS carts, quality, and sometimes high priced)"www.tuning.com/english"
+Video Connection:(800)444-6854 (MVS everything, board prices are high)"www.videoconnect.com"
+Worldwide Distributors:(773)384-2300 (okay source for MVS)"www.dirs.com/update/wwdi/wwdi.txt"
+
+
+   Also, check "www.ebay.com", eBay Auctions, for Neo-Geo stuff. Search "neo geo".
+And, check the Usenet newsgroups that follow, for Neo-Geo info:
+ alt.games.video.import.japanese
+ rec.games.video.marketplace
+ rec.games.video.misc
+ rec.games.video.arcade
+ rec.games.video.arcade.collecting
+ rec.games.video.arcade.marketplace
+    
+   To subscribe to the NEO-GEO mailing list(for buying carts, or bullshitting with other Neo owners), send 
+the text "subscribe neogeo" in email to listar@dhp.com, and can send messages to the same address. 
+    The mailing list has on average, 75-100 pieces of e-mail a day, so if your e-mail 
+provider tells you that too much mail is coming in, well...
+--------------
+
+
+|------------------------------|
+|Past Updates, and Coming Soon!|
+|------------------------------|
+
+
+ UPDATES:
+
+ v.1.0: First ever edition of this FAQ, with a limited gamelist.(4/10/97)
+ v.1.1: Important updates, include a revamped gamelist and new questions were put up.(4/23/97)
+ v.1.2:  Added new questions.(4/25/97)
+ v.1.3-1.9b: Questions were corrected, and gamelist was added to.(5/29/97, around there)
+ v.2.0: New questions, and Other Info was added.(6/13/97)
+ v.2.1-2.5: Gamelist was updated.(around 8/20/97)
+ v.2.6: This is now the best gamelist of Neo games on the Net! I can back up these claims 
+as well, and this FAQ has a lot of added questions as well.(10/25/97)
+ v.2.7-2.8: Added questions, updated gamelist and reviews of my own.(12/10/97)
+ v.2.9:  Added searchable area of my FAQ, updated my gamelist and reviews.(1/23/98)
+ v.2.9a-2.99c:Updated gamelist, added questions.(around 2/15/98)
+ v.2.99d: Bold print and more reviews accentuate this interim release.(2/22/98)
+ v.3.0: Revamped FAQ, with more questions, and my gamelist corrected. (2/23/98)
+ v.3.1-3.2: Corrections to this FAQ, including new reviews and questions.(2/26/98-3/1/98)
+ v.3.3: Added 4 new questions, updated my Game List, and cleaned it up somewhat.(3/6/98)
+ v.3.4-3.43: Another interim release, with new questions and game list updates galore.(3/31/98)
+ v.4.0-4.09: Barring any more updates, this will be the definitive update, and will answer 
+all your questions to the Neo-Geo.  Also, it will be the last update, for a long time.(4/31/98)
+ v.4.1-4.98: A compound of updates, and my review page is almost finished!  Some more questions were added.(6/2/98)
+ v.5.0: Another update compounding, this will try to end up being over 100kbits in size, which it did. (6/8/98)
+ v.5.1-5.46: This FAQ will have some more updates done to it.(6/17/98)
+ v.5.5: Not much more info will be needed, just new game info....(6/26/98)
+ v.5.6: I just need any more info, as this will hit the 100KBits mark, for text version, soon.(7/15/98)
+ v.5.7-5.89: Coming closer to the final completion, lots more will be added. (7/16/98)
+ v.6.0: Getting to the end, almost done! (7/17/98)
+ v.6.5: Almost to the end!(7/20/98)
+ v.7.0: Will probably be the last update. Almost everything is complete.(8/16/98)
+ v.7.5-7.9b: This will continue to support the Neo world, through 1999, as this is the defining point 
+in this Neo FAQ's history.(10/4/98)
+ v.8.0-8.0b: Getting bigger, this will say all the megabit counts for each game that is released! (10/5/98)
+ v.8.1-8.5a: Now, it's actually 100kbits in size. (10/15/98)
+ v.9.0-9.5: Another standard release...with more questions and a complete Prototype list.(11/15/98)
+ v.9.6-9.6c: More megabit counts, and a new question answered....(2/28/99)
+
+ COMING SOON!:
+ 
+ v.9.7: This will be the second version in 1999, with more updates!
+ 
+---------------
+
+
+ THIS FAQ IS NOT ENDORSED OR MADE BY SNK ENTERTAINMENT CORPORATION!!!!!!
+
+  I would wish to thank(in no particular order)Russ Krook III, Sylvio Hodos, David Smith, 
+Israel Alvarado, Spaceman Spiff, Conrad Fenech, Frigerio Stefano, Christopher Olszewski, 
+Lawrence Bassin, Jacob Poon, Vince Yang, Chris Ray, Takeshi Kuroda, Shinichirou Mukaigashira, 
+Dion Dakis, and MAS Systems. 
+  Special thanks to Ralph Barbagallo III, for making the first one to improve and learn on.  
+Any comments or questions about this FAQ and the NEOGEO?  E-mail me at Cmull11217@aol.com.  Happy gaming!
+
+ |----------------------------------------------------------------------------------------|
+ <Copyrighted 1997, 1998, 1999 by Chris Mullins, all rights reserved. Any republication of>
+ <this material, without written consent from myself(Chris Mullins), and credit to myself,> 
+ <will be subject to fines and/or sentencing due to plagiarism.                           >
+ |----------------------------------------------------------------------------------------|
+
+                                           ~remembering a tradition~
+
+  /-------------------------------------\
+ /|-------------------------------------|\
+< | Chris Mullins's NEO-GEO FAQ 9.6c END| > 
+ \|-------------------------------------|/   
+  \-------------------------------------/
+    
+
