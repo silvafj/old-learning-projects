@@ -1,0 +1,88 @@
+********************************************************************************
+*                               Bibdisk  V1.0                                  *
+*                     Fernando Jorge de Almeida da Silva                       *
+*                             Geral Inc. @1995                                 *
+********************************************************************************
+     
+                                 
+                                1) OBJECTIVO
+                                ************
+
+    Bibdisk ‚ um programa que tem como objectivo organizar todas aquelas biblio-
+otecas de disquetes que estando desorganizadas, ‚ dif¡cil encontrar aquela(s) 
+disquete que necessitamos, n„o s¢ pelos arquivos nela contidos, mas tamb‚m por 
+alguma que tenha ainda dispon¡veis aqueles bytezinhos que precisamos.
+ 
+                                
+                               2) COMO FUNCIONA ???      
+                               ********************
+    
+    O Bibdisk consiste em quatro itens : Inserir 
+                                         Procurar
+                                         Modificar  
+                                         Listar
+                              
+                              
+                                   2.1) INSERIR
+                                   ************
+
+    Quando se escolhe INSERIR o programa diz automaticamente o n§ da disquete,
+que conv‚m escrever nela. -lhe pedido o nome da disquete (m ximo 11 caracteres) 
+que a identifica, caso ela n„o tenha nome, pode-se identifica-la fazendo LABEL 
+no DOS. Tamb‚m se pede o n§ de s‚rie da disquete que ao fazer DIR se vˆ; o n§ de
+bytes livres; e o n§ de conte£dos, para quˆ ??? O n§ de conte£dos serve para 
+definir o n§ m ximo de programas diferentes que a disquete cont‚m.
+
+   EXEMPLO:
+      Uma disquete com o nome ( JOGOS ), o n§ de s‚rie 11BC-2ADC , tem 300000
+bytes livres e 2 conte£dos diferentes : o jogo lemmings e o banner.
+
+                                   2.2) PROCURAR
+                                   *************
+
+    Quando se selecciona procurar existem trˆs hip¢teses : ou se procura por 
+bytes livres (o programa d  o n§ de todas as disquetes que tenham um valor de 
+bytes livres superior ao pedido); por n§ (‚ fornecido o quadro de informa‡”es 
+dessa disquete); ou por conte£do (‚ apresentado os n§s de todas as disquetes 
+que contenham a string procurada)
+
+                                   2.3) MODIFICAR
+                                   **************
+
+    Quando se selecciona MODIFICAR aparece o quadro do INSERIR com os valores
+actuais. Para modificar basta introduzir o novo valor em cima do antigo, caso 
+o valor seja o mesmo e queremos passar … frente basta pressionar ENTER sem mo-
+dificar o valor.
+    Na modifica‡„o dos bytes livres e do n§ de conte£dos ‚ necess rio pressionar 
+duas vezes a tecla do primeiro caracter por existir um retardo do cursor, no n§
+de conte£dos para modificar o tipo ‚ necess rio SEMPRE escrever um valor de con-
+te£dos caso o valor seja o mesmo escreva o mesmo valor, caso seja diferente in-
+troduza o novo valor.
+
+                                    2.4) LISTAR
+                                    ***********
+
+    Lista num quadro todas as informa‡”es sobre uma disquete.
+
+
+                                  PARA FINALIZAR
+                                  **************
+
+    O programa serve s¢ de apoio, NO ADIVINHA O QUE O UTILIZADOR faz …s disque-
+tes, por isso sempre que modifique uma disquete informe o programa no MODIFICAR,
+para que o pograma tenha sempre informa‡”es actuais sobre as disquetes para o
+servir melhor, actual e correctamente.
+
+*****************************| OBRIGADO POR ME TER LIDO |***********************
+ 
+ Para Sugest”es Ou Cr¡ticas (PSOC) :
+         
+    TEL :    ÉÍÍÍÍÍÍÍÍÍÍÍÍÍ»
+             º(034) 602800 º
+             ÈÍÍÍÍÍÍÍÍÍÍÍÍÍ½ 
+    
+    MORADA : ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+             ³ Fernando Jorge de Almeida da Silva  ³
+             ³ Juncal - Assequins                  ³
+             ³ 3750 †gueda                         ³
+             ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ

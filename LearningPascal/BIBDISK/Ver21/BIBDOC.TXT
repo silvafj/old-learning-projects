@@ -1,0 +1,101 @@
+********************************************************************************
+*                               Bibdisk  V2.0                                  *
+*                     Fernando Jorge de Almeida da Silva                       *
+*                         GL corporation  Dez. 1995                            *
+********************************************************************************
+
+
+                                1) OBJECTIVO
+                                ************
+
+    Bibdisk ‚ um programa que tem como objectivo organizar todas aquelas biblio-
+otecas de disquetes que estando desorganizadas, ‚ dif¡cil encontrar aquela(s)
+disquete que necessitamos, n„o s¢ pelos arquivos nela contidos, mas tamb‚m por
+alguma que tenha ainda dispon¡veis aqueles bytezinhos que precisamos.
+
+
+                               2) COMO FUNCIONA ???
+                               ********************
+
+    O Bibdisk consiste em quatro itens : Inserir
+                                         Actualizar
+                                         Substituir
+                                         Procurar
+                                         Listar
+
+
+                                   2.1) INSERIR
+                                   ************
+
+    Quando se escolhe INSERIR o programa diz automaticamente o n§ da disquete,
+que conv‚m escrever nela. Basta introduzir a disquete na drive A, o programa
+encarrega-se de verificar o seu nome, caso ela n„o tenha nome, pode-se
+identifica-la fazendo LABEL no DOS, o n§ de s‚rie, o valor de bytes da disquete,
+o n§ de bytes usados, e o n§ de bytes livres. O programa finaliza fazendo a
+procura dos direct¢rios da disquete tornando-se estes, aquilo a que o programa
+chama de conte£dos, por isso na sua disquete crie direct¢rios a tudo o que qizer
+guardar ( EXEMPLO : na disquete quer guardar o jogo lemmings e uma s‚rie de tex-
+tos, para isso poder  criar o direct¢rio LEMMINGS e o direct¢rio TEXTOS), o pro-
+grama encontra todos os direct¢rios existentes na disquete.
+
+                                   2.3) ACTUALIZAR
+                                   ***************
+
+    Quando se selecciona ACTUALIZAR ‚ pedida que se introduza o n£mero da disqu-
+ete a actualizar, depois de a introduzir na drive A o programa verifica a dis-
+quete para confirmar se o nome do volume e o n§ de s‚rie correspondem, se sim o
+programa verifica direct¢rios e bytes actualizando, se n„o o programa avisa.
+
+                                   2.2) PROCURAR
+                                   *************
+
+    Quando se selecciona procurar existem trˆs hip¢teses : ou se procura por
+bytes livres (o programa d  o n§ de todas as disquetes que tenham um valor de
+bytes livres superior ao pedido); por n§ (‚ fornecido o quadro de informa‡”es
+dessa disquete); ou por conte£do (‚ apresentado os n§s de todas as disquetes
+que contenham a string procurada)
+
+
+                                    2.4) LISTAR
+                                    ***********
+
+    Lista num quadro todas as informa‡”es sobre uma disquete.
+    Existem tres teclas para se andar na zona de listagem : a seta para baixo
+para andar para o registro seguinte, a tecla para cima para voltar a registros
+anteriores, e ESC para sair.
+
+
+                                  2.5) SUBSTITUIR
+                                  ***************
+
+    Substitui uma disquete por outra. Este item usa-se por exemplo, no caso
+de uma disquete com um n£mero X ter-se estragado remove-se a disquete dos dados
+existentes colocando outra nova no seu lugar. Caso n„o se fizesse isto poderiam
+acontecer duas coisas : ou ficava um lugar vazio e estariamos a aumentar o n£me-
+ro de disquetes o que n„o era realidade (por exemplo poderiamos j  ir no n£mero
+500 mas na realidade s¢ existirem 50 disquetes na nossa biblioteca), ou ao colo-
+carmos no lugar vazio a disquete seguinte todas as disquetes que estivessem
+para a frente desciriam um n£mero e ter¡amos de escrever o novo n£mero na dis-
+quete o que por exemplo passadas 20 remo‡”es serie inimagin vel.
+
+                                  PARA FINALIZAR
+                                  **************
+
+    O programa serve s¢ de apoio, NO ADIVINHA O QUE O UTILIZADOR faz …s disque-
+tes, por isso sempre que modifique uma disquete informe o programa no ACTUALIZAR,
+para que o pograma tenha sempre informa‡”es actuais sobre as disquetes para o
+servir melhor, actual e correctamente.
+
+*****************************| OBRIGADO POR ME TER LIDO |***********************
+
+ Para Sugest”es Ou Cr¡ticas (PSOC) :
+
+    TEL :    ÉÍÍÍÍÍÍÍÍÍÍÍÍÍ»
+             º(034) 602800 º
+             ÈÍÍÍÍÍÍÍÍÍÍÍÍÍ½
+
+    MORADA : ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+             ³ Fernando Jorge de Almeida da Silva  ³
+             ³ Juncal - Assequins                  ³
+             ³ 3750 †gueda                         ³
+             ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ

@@ -1,0 +1,265 @@
+PROGRAM resiscodigo;
+USES
+    CRT,DOS,TP;
+
+   VAR
+     a,numero:INTEGER;
+     cor_1,cor_2,cor_3,cor_4,cor_5:STRING;
+     b,c,d,e,f,g,h,i,j,k,escreve_numero:REAL;
+
+BEGIN
+   textcolor(14);
+   Inicia('Resisc¢digo  V1.0','1995');
+   textcolor(15);
+   writexy('R E S I S C Ÿ D I G O',27,7);
+   textcolor(8);
+   writexy('Este programa diz qual ‚ o valor de uma determinada resistˆncia,',10,9);
+   writexy('bastando para isso, a introdu‡„o das cores da lista de cada resistˆncia.',5,10);
+   writexy('No fim ser -lhe pedida a introdu‡„o de um n£mero.',14,11);
+   textcolor(14);
+   writexy('Quantas listas tem a resistˆncia (4 ou 5) : ',15,13);
+   textcolor(15);
+   readln(numero);
+   IF numero=4 then
+     BEGIN
+       textcolor(14);
+       inicia('Resisc¢digo  V1.0','1995');
+       writexy('As cores poss¡veis s„o : ',4,5);
+       textcolor(15);
+       writexy('Prata (Pr)',5,6);
+       writexy('Ouro (Ou) ',5,7);
+       writexy('Preto (Pre)',5,8);
+       writexy('Castanho (Cas) ',5,9);
+       writexy('Vermelho (Verm) ',5,10);
+       writexy('Laranja (Lar) ',5,11);
+       writexy('Amarelo (Amar) ',5,12);
+       writexy('Verde (Ver) ',5,13);
+       writexy('Azul (Az) ',5,14);
+       writexy('Violeta (Viol) ',5,15);
+       writexy('Cinzento (Cinz) ',5,16);
+       writexy('Branco (Bran) ',5,17);
+       textcolor(14);
+       for a:= 1 to 18 do
+          begin
+              writexy('º',28,4+a);
+          end;
+       textcolor(14);
+           writexy('Qual a 1¦ cor : ',30,6);
+           textcolor(15);
+           readln(cor_1);
+       if cor_1='Pr'then b:=0;
+       if cor_1='Ou' then b:=0;
+       if cor_1='Pre' then b:=0;
+       if cor_1='Cas' then b:=1;
+       if cor_1='Verm' then b:=2;
+       if cor_1='Lar' then b:=3;
+       if cor_1='Amar' then b:=4;
+       if cor_1='Ver' then b:=5;
+       if cor_1='Az' then b:=6;
+       if cor_1='Viol' then b:=7;
+       if cor_1='Cinz' then b:=8;
+       if cor_1='Bran' then b:=9;
+       textcolor(14);
+           writexy('Qual a 2¦ cor : ',30,8);
+           textcolor(15);
+           readln(cor_2);
+       if cor_2='Pr'then c:=0;
+       if cor_2='Ou' then c:=0;
+       if cor_2='Pre' then c:=0;
+       if cor_2='Cas' then c:=1;
+       if cor_2='Verm' then c:=2;
+       if cor_2='Lar' then c:=3;
+       if cor_2='Amar' then c:=4;
+       if cor_2='Ver' then c:=5;
+       if cor_2='Az' then c:=6;
+       if cor_2='Viol' then c:=7;
+       if cor_2='Cinz' then c:=8;
+       if cor_2='Bran' then c:=9;
+       textcolor(14);
+           writexy('Qual a 3¦ cor : ',30,10);
+           textcolor(15);
+           readln(cor_3);
+       if cor_3='Pr'then d:=0.01;
+       if cor_3='Ou' then d:=0.1;
+       if cor_3='Pre' then d:=1;
+       if cor_3='Cas' then d:=10;
+       if cor_3='Verm' then d:=100;
+       if cor_3='Lar' then d:=1000;
+       if cor_3='Amar' then d:=10000;
+       if cor_3='Ver' then d:=100000;
+       if cor_3='Az' then d:=1000000;
+       if cor_3='Viol' then d:=10000000;
+       if cor_3='Cinz' then d:=100000000;
+       if cor_3='Bran' then d:=1000000000;
+       textcolor(14);
+           writexy('Qual a 4¦ cor : ',30,12);
+           textcolor(15);
+           readln(cor_4);
+       if cor_4='Pr'then e:=10;
+       if cor_4='Ou' then e:=5;
+       if cor_4='Pre' then e:=0;
+       if cor_4='Cas' then e:=1;
+       if cor_4='Verm' then e:=2;
+       if cor_4='Lar' then e:=0;
+       if cor_4='Amar' then e:=0;
+       if cor_4='Ver' then e:=0;
+       if cor_4='Az' then e:=0;
+       if cor_4='Viol' then e:=0;
+       if cor_4='Cinz' then e:=0;
+       if cor_4='Bran' then e:=0;
+       gotoxy(30,14);
+       write('Escreve o seguinte n£mero ( ',b:6:0,c:6:0,') : ');
+       readln(escreve_numero);
+       f := escreve_numero * d;
+       gotoxy(30,16);
+       textcolor(14);
+       write('O valor da resistˆncia ‚ de :');
+       textcolor(15 + 128);
+       gotoxy(30,17);
+       IF f < 1000 then
+            begin
+              write(f:6:0,'ê');
+              gotoxy(30,18);
+              write('Com uma tolerƒncia de ',e:6:0,'%');
+            end;
+       IF f >= 1000 then
+            begin
+              f := f / 1000;
+              write(f:6:0,'Kê');
+              gotoxy(30,18);
+              write('Com uma tolerƒncia de ',e:6:0,'%');
+            end;
+     END;
+
+   IF numero=5 then
+     BEGIN
+       textcolor(14);
+       inicia('Resisc¢digo  V1.0','1995');
+       writexy('As cores poss¡veis s„o : ',4,5);
+       textcolor(15);
+       writexy('Prata (Pr)',5,6);
+       writexy('Ouro (Ou) ',5,7);
+       writexy('Preto (Pre)',5,8);
+       writexy('Castanho (Cas) ',5,9);
+       writexy('Vermelho (Verm) ',5,10);
+       writexy('Laranja (Lar) ',5,11);
+       writexy('Amarelo (Amar) ',5,12);
+       writexy('Verde (Ver) ',5,13);
+       writexy('Azul (Az) ',5,14);
+       writexy('Violeta (Viol) ',5,15);
+       writexy('Cinzento (Cinz) ',5,16);
+       writexy('Branco (Bran) ',5,17);
+       textcolor(14);
+       for a:= 1 to 18 do
+          begin
+              writexy('º',28,4+a);
+          end;
+       textcolor(14);
+           writexy('Qual a 1¦ cor : ',30,6);
+           textcolor(15);
+           readln(cor_1);
+       if cor_1='Pr'then b:=0;
+       if cor_1='Ou' then b:=0;
+       if cor_1='Pre' then b:=0;
+       if cor_1='Cas' then b:=1;
+       if cor_1='Verm' then b:=2;
+       if cor_1='Lar' then b:=3;
+       if cor_1='Amar' then b:=4;
+       if cor_1='Ver' then b:=5;
+       if cor_1='Az' then b:=6;
+       if cor_1='Viol' then b:=7;
+       if cor_1='Cinz' then b:=8;
+       if cor_1='Bran' then b:=9;
+       textcolor(14);
+           writexy('Qual a 2¦ cor : ',30,8);
+           textcolor(15);
+           readln(cor_2);
+       if cor_2='Pr'then c:=0;
+       if cor_2='Ou' then c:=0;
+       if cor_2='Pre' then c:=0;
+       if cor_2='Cas' then c:=1;
+       if cor_2='Verm' then c:=2;
+       if cor_2='Lar' then c:=3;
+       if cor_2='Amar' then c:=4;
+       if cor_2='Ver' then c:=5;
+       if cor_2='Az' then c:=6;
+       if cor_2='Viol' then c:=7;
+       if cor_2='Cinz' then c:=8;
+       if cor_2='Bran' then c:=9;
+       textcolor(14);
+           writexy('Qual a 3¦ cor : ',30,10);
+           textcolor(15);
+           readln(cor_3);
+       if cor_3='Pr'then f:=0;
+       if cor_3='Ou' then f:=0;
+       if cor_3='Pre' then f:=0;
+       if cor_3='Cas' then f:=1;
+       if cor_3='Verm' then f:=2;
+       if cor_3='Lar' then f:=3;
+       if cor_3='Amar' then f:=4;
+       if cor_3='Ver' then f:=5;
+       if cor_3='Az' then f:=6;
+       if cor_3='Viol' then f:=7;
+       if cor_3='Cinz' then f:=8;
+       if cor_3='Bran' then f:=9;
+       textcolor(14);
+           writexy('Qual a 4¦ cor : ',30,12);
+           textcolor(15);
+           readln(cor_4);
+       if cor_4='Pr'then d:=0.01;
+       if cor_4='Ou' then d:=0.1;
+       if cor_4='Pre' then d:=1;
+       if cor_4='Cas' then d:=10;
+       if cor_4='Verm' then d:=100;
+       if cor_4='Lar' then d:=1000;
+       if cor_4='Amar' then d:=10000;
+       if cor_4='Ver' then d:=100000;
+       if cor_4='Az' then d:=1000000;
+       if cor_4='Viol' then d:=10000000;
+       if cor_4='Cinz' then d:=100000000;
+       if cor_4='Bran' then d:=1000000000;
+       textcolor(14);
+           writexy('Qual a 5¦ cor : ',30,14);
+           textcolor(15);
+           readln(cor_5);
+       if cor_5='Pr'then e:=10;
+       if cor_5='Ou' then e:=5;
+       if cor_5='Pre' then e:=0;
+       if cor_5='Cas' then e:=1;
+       if cor_5='Verm' then e:=2;
+       if cor_5='Lar' then e:=0;
+       if cor_5='Amar' then e:=0;
+       if cor_5='Ver' then e:=0;
+       if cor_5='Az' then e:=0;
+       if cor_5='Viol' then e:=0;
+       if cor_5='Cinz' then e:=0;
+       if cor_5='Bran' then e:=0;
+       gotoxy(30,16);
+       write('Escreve o seguinte n£mero ( ',b:6:0,c:6:0,f:6:0,') : ');
+       readln(escreve_numero);
+       g := escreve_numero * d;
+       gotoxy(30,18);
+       textcolor(14);
+       write('O valor da resistˆncia ‚ de :');
+       textcolor(15 + 128);
+       gotoxy(30,19);
+       IF g < 1000 then
+            begin
+              write(g:6:0,'ê');
+              gotoxy(30,20);
+              write('Com uma tolerƒncia de ',e:6:0,'%');
+            end;
+       IF g >= 1000 then
+            begin
+              g := g / 1000;
+              write(g:6:0,'Kê');
+              gotoxy(30,20);
+              write('Com uma tolerƒncia de ',e:6:0,'%');
+            end;
+     END;
+      textcolor(12 + 128);
+      writexy('Pressione ENTER',38,21);
+      readln;
+END.
+
+
