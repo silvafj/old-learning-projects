@@ -1,0 +1,35 @@
+10
+REM Tra‡ado de isotermicas do gas ideal
+REM dados
+R = 8.31
+n = 1
+T1 = 200
+T2 = 250
+T3 = 300
+T4 = 350
+Pmax = 70000
+Vmax = .3
+Vmin = .05
+SCREEN 12
+VIEW (100, 100)-(500, 400), 0, 2
+WINDOW (0, 0)-(Vmax, Pmax)
+LOCATE 28, 50: PRINT "V(m3)"
+LOCATE 12, 5: PRINT "p(Pa)"
+LOCATE 27, 12: PRINT 0: LOCATE 27, 61: PRINT Vmax
+LOCATE 25, 10: PRINT 0: LOCATE 6, 8: PRINT Pmax
+
+FOR V = Vmin TO Vmax STEP .001
+        P1 = n * R * T1 / V
+        P2 = n * R * T2 / V
+        P3 = n * R * T3 / V
+        P4 = n * R * T4 / V
+        PSET (V, P1), 5
+        PSET (V, P2), 6
+        PSET (V, P3), 7
+        PSET (V, P4), 8
+NEXT V
+20  LOCATE 28, 3: INPUT "Deseja visualizar outra vez (S/N)"; F$
+   IF F$ = "S" OR F$ = "s" THEN GOTO 10
+   IF F$ = "N" OR F$ = "n" THEN CHAIN "A:\A1B1C1.AúC"
+   GOTO 20
+

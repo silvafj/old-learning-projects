@@ -1,0 +1,49 @@
+10 ON ERROR GOTO 270
+   CLS
+   SCREEN 9
+   COLOR 14, 0: LOCATE 1, 15: PRINT "CALCULO DO PH DE SOLUÄOES DE ACIDOS E BASES MUITO FORTES"
+   COLOR 10, 0: LOCATE 6, 35: INPUT "ê um †cido(a) ou uma base(b)"; T$
+   LOCATE 8, 35: INPUT "Monopr¢tico(n=1) ou dipr¢tico(n=2)"; n
+   LOCATE 10, 30: INPUT "Qual a concentraáao (de 1 a 0.0001 mol/L)"; C
+   IF T$ = "b" THEN GOTO 100
+   LOCATE 15, 40: PRINT "O pH da soluáao †cida Ç"; INT(100 * (-LOG(n * C)) / 2.3025851# + .5) / 100
+   IF T$ = "a" THEN GOTO 190
+100 LOCATE 15, 40: PRINT "O pH da soluáao alcalina Ç"; 14 - INT(100 * (-LOG(n * C)) / 2.3025851# + .5) / 100
+    PSET (290, 225), 14: DRAW "U50;R300;D50;L300"
+    PSET (100, 125), 9: DRAW "F5;D100;R50;U100;E50"
+    PSET (105, 175), 10: DRAW "R50"
+    PSET (130, 200), 13: DRAW "R120;H10;D20;E10"
+    FOR n = 1 TO 54
+    PSET (106, 175 + n), 9: DRAW "R8"
+    NEXT n
+    GOTO 260
+190 PSET (290, 225), 14: DRAW "U50;R300;D50;L300"
+    PSET (100, 125), 9: DRAW "F5;D100;R50;U100;E5"
+    PSET (105, 175), 10: DRAW "R50"
+    PSET (130, 200), 13: DRAW "R120;H10;D20;E10"
+    FOR X = 1 TO 54
+    PSET (106, 175 + X), 12: DRAW "R48"
+    NEXT X
+260 LOCATE 18, 8: PRINT "Qual seria o indicador?"
+    SLEEP (2)
+    LOCATE 25, 3: INPUT "Deseja efectuar mais calculos (S/N)"; B$
+    IF B$ = "S" OR B$ = "s" THEN GOTO 10
+    IF B$ = "N" OR B$ = "n" THEN CHAIN "A:\A1B1C1.A˙C"
+270 CLS
+    LOCATE 10, 15: PRINT "ERRO NA INTRODUÄ«O DE VALORES"
+    LOCATE 11, 15: INPUT "DESEJA COMEÄAR (S/N)"; A$
+    IF A$ = "S" OR A$ = "s" THEN GOTO 10
+    IF A$ = "N" OR A$ = "n" THEN CHAIN "A:\A1B1C1.A˙C"
+
+
+
+
+
+
+
+
+
+
+
+
+

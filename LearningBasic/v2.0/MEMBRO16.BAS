@@ -1,0 +1,44 @@
+15 CLS
+   ON ERROR GOTO 10
+   CLS
+   SCREEN 9
+   COLOR 15, 0
+   LOCATE 2, 25: COLOR 14, 0: PRINT "COMPOSI€AO CENTESIMAL DE COMPOSTOS"
+   LOCATE 3, 25: PRINT "de K, Na, Ca, C, H, O, Cl, N, P, S"
+   LOCATE 4, 25: PRINT "e outros que queiras acrescentar"
+   COLOR 15, 0
+   LOCATE 6, 10: PRINT "Que elementos contem o composto?"
+   LOCATE 7, 20: INPUT "Pot ssio? Quantos  tomos por mol‚cula"; A
+    LOCATE 8, 20: INPUT "S¢dio? Quantos  tomos por mol‚cula"; B
+    LOCATE 9, 20: INPUT "C lcio? Quantos  tomos por mol‚cula"; C
+    LOCATE 10, 20: INPUT "Carbono? Quantos  tomos por mol‚cula"; D
+    LOCATE 11, 20: INPUT "Hidrog‚nio? Quantos  tomos por mol‚cula"; E
+    LOCATE 12, 20: INPUT "Oxig‚nio? Quantos  tomos por mol‚cula"; F
+    LOCATE 13, 20: INPUT "Enxofre? Quantos  tomos por mol‚cula"; G
+    LOCATE 14, 20: INPUT "F¢sforo? Quantos  tomos por mol‚cula"; H
+    LOCATE 15, 20: INPUT "Azoto? Quantos  tomos por mol‚cula"; I
+    LOCATE 16, 20: INPUT "Cloro? Quantos  tomos por mol‚cula"; J
+    LET S = 39.0983 * A + 22.9898 * B + 40.08 * C + 12.011 * D + 1.0079 * E + 15.999 * F + 32.06 * G + 30.9738 * H + 14.0067 * I + 35.453 * J
+    LOCATE 18, 5: PRINT "%K="; INT(3909.83 * A / S * 100 + .5) / 100
+    LOCATE 18, 20: PRINT "%Na="; INT(2298.98 * B / S * 100 + .5) / 100
+    LOCATE 18, 35: PRINT "%Ca="; INT(4008 * C / S * 100 + .5) / 100
+    LOCATE 18, 50: PRINT "%C="; INT(1201.1 * D / S * 100 + .5) / 100
+    LOCATE 18, 65: PRINT "%H="; INT(100.1 * E / S * 100 + .5) / 100
+    LOCATE 19, 5: PRINT "%O="; INT(1599.9 * F / S * 100 + .5) / 100
+    LOCATE 19, 20: PRINT "%S="; INT(3206 * G / S * 100 + .5) / 100
+    LOCATE 19, 35: PRINT "%P="; INT(3097.38 * H / S * 100 + .5) / 100
+    LOCATE 19, 50: PRINT "%N="; INT(1400.67 * I / S * 100 + .5) / 100
+    LOCATE 19, 65: PRINT "%Cl="; INT(3545.3 * J / S * 100 + .5) / 100
+    PSET (20, 230), 10: DRAW "R600;D44;L600;U44"
+    LOCATE 21, 40: PRINT "Resultados aproximados …s cent‚simas"
+    LOCATE 25, 3: INPUT "Deseja efectuar mais calculos (S/N)"; A$
+    IF A$ = "S" OR A$ = "s" THEN GOTO 15
+    IF A$ = "N" OR A$ = "n" THEN CHAIN "A:\A1B1C1.AúC"
+10 CLS
+    LOCATE 10, 15: PRINT "ESTOURO DE DIVISÇO: O resultado do calculo ‚ muito "
+    LOCATE 11, 15: PRINT "grande para o tipo de dados fornecidos"
+    SLEEP (3)
+    CHAIN "A:\A1B1C1.AúC"
+    
+   
+

@@ -1,0 +1,7 @@
+    SCREEN 1        '320 x 200 gr ficos
+    LINE (110, 70)-(190, 120), , B
+    LINE (0, 0)-(320, 200), 3, , &HFF00
+    SLEEP (5)
+    CHAIN "A1B1C1.AúC"
+
+

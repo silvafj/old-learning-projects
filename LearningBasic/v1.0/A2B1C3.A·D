@@ -1,0 +1,13 @@
+    ON ERROR GOTO 10
+    CLS
+    INPUT "Digite o nome do arquivo: "; f$
+    OPEN f$ FOR BINARY AS #1
+    PRINT "Tamanho do arquivo (em BYTES)= "; LOF(1)
+    LOCATE 10, 15: PRINT "OPERA€ÇO BEM SUCEDIDA"
+    SLEEP (3)
+    CHAIN "A1B1C1.AúC"
+10  LOCATE 10, 15: PRINT "ERRO: NOME DO ARQUIVO INVµLIDO"
+    SLEEP (2)
+    CHAIN "A1B1C1.AúC"
+
+

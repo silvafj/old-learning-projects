@@ -1,0 +1,12 @@
+    CLS
+    ON ERROR GOTO 10
+    INPUT "Nome Antigo: "; OldFN$
+    INPUT "Novo Nome: "; NewFN$
+    NAME OldFN$ AS NewFN$
+    GOTO 11
+10  LOCATE 15, 20: PRINT "ARQUIVO NÇO ENCONTRADO "
+    GOTO 12
+11  LOCATE 10, 15: PRINT "OPERA€ÇO CONCLUIDA"
+12  SLEEP (5)
+    CHAIN "A1B1C1.AúC"
+

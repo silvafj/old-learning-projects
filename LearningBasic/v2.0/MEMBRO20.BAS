@@ -1,0 +1,18 @@
+1   ON ERROR GOTO 10
+    CLS
+    INPUT "Arquivo a excluir: "; f$
+    KILL f$
+    GOTO 11
+10  LOCATE 10, 15: PRINT "ARQUIVO NÇO ENCONTRADO"
+9   INPUT "DESEJA OUTRA OPERA€ÇO (S/N)"; A$
+    IF A$ = "S" OR A$ = "s" THEN GOTO 1
+    IF A$ = "N" OR A$ = "n" THEN CHAIN "A:\A1B1C1.AúC"
+    GOTO 9
+11  LOCATE 10, 15: PRINT "OPERA€ÇO CONCLUÖDA"
+    SLEEP (2)
+    LOCATE 11, 13: PRINT "VOLTE SEMPRE... EU EXCLUI-O TUDO QUE QUISER..."
+12  INPUT "DESEJA OUTRA OPERA€ÇO (S/N)"; A$
+    IF A$ = "S" OR A$ = "s" THEN GOTO 1
+    IF A$ = "N" OR A$ = "n" THEN CHAIN "A:\A1B1C1.AúC"
+    GOTO 12
+
