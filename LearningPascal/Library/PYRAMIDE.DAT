@@ -1,0 +1,15 @@
+PYRAMIDE
+5 8		; Made by fh94.3 (C) 12/24/1995 for 3dTutorial
+0 0 1		;point #0
+1 1 -1
+1 -1 -1
+-1 -1 -1
+-1 1 -1		;point #4
+0 1		;line #1
+0 2
+0 3
+0 4
+1 2
+1 4
+2 3
+3 4		;line #8
